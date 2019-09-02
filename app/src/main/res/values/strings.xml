@@ -1,0 +1,125 @@
+<resources>
+  <string name="app_name">launcher</string>
+  <string name="action_settings">Settings</string>
+  <string name="activity_not_found">应用未安装</string>
+  <string name="app_cannot_uninstall">该应用不可卸载！</string>
+  <string name="btn_start_navi">导航</string>
+  <string name="btn_stop_navi">结束</string>
+  <string name="btn_search">搜索</string>
+
+  <string-array name="car_types">
+    <item>type_2008</item>
+    <item>type_ariza5e</item>
+    <item>type_cavalier</item>
+    <item>type_e50</item>
+    <item>type_eq</item>
+    <item>type_eq1</item>
+    <item>type_ev200</item>
+    <item>type_i3</item>
+    <item>type_iev5</item>
+    <item>type_iev6e</item>
+    <item>type_jetta</item>
+  </string-array>
+
+
+  <string-array name="type_2008">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_ariza5e">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>cavalier
+
+  <string-array name="type_cavalier">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_e50">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_eq">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_eq1">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_ev200">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_i3">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_iev5">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_iev6e">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string-array name="type_jetta">
+    <item>车门</item>
+    <item>充电</item>
+    <item>灯光</item>
+    <item>空调</item>
+    <item>启动</item>
+    <item>雨刷</item>
+  </string-array>
+
+  <string name="welcome_str">欢迎使用首汽共享汽车，祝您用车愉快，如需帮助，请说小饭同学</string>
+</resources>

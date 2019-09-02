@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="gray">#E5E5E5</color>
+  <color name="text_gray">#535353</color>
+
+
+
+  <!---add by Mr.G-->
+  <color name="base_main_color">#1E171F</color>
+  <color name="white">#FFFFFF</color>
+  <color name="date">#AEADB3</color>
+  <color name="text_order_green">#2CF785</color>
+  <color name="text_order_red">#FF4085</color>
+  <color name="fragemnt_route_left_base_bg">#3F3F48</color>
+  <color name="fragemnt_route_left_bottom_bg">#2D2D37</color>
+  <color name="color_text_navi_end">#27202A</color>
+  <color name="color_page_index_txt">#4C4F59</color>
+  <color name="navi_info_prefix">#88858A</color>
+  <color name="navi_info_main">#000E00</color>
+  <!--end-->
+    <color name="tools_bg_color">#1a151c</color>
+
+    <color name="color_bg">#4D000000</color>
+    <color name="color1">#99FF69B4</color>
+    <color name="color2">#99FCFFA6</color>
+    <color name="color3">#9920B2AA</color>
+
+  <!--more fragment-->
+  <color name="next_font">#ffa9a9a9</color>
+</resources>

@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
+
+android {
+  compileSdkVersion 27
+  buildToolsVersion '28.0.3'
+  defaultConfig {
+    applicationId "com.shouqiev.mirror.launcher"
+    minSdkVersion 21
+    targetSdkVersion 27
+    versionCode 1
+    versionName "1.0"
+    testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    ndk {
+      //设置支持的SO库架构（开发者可以根据需要，选择一个或多个平台的so）
+      abiFilters "armeabi"
+    }
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+  }
+  productFlavors {}
+}
+greendao {
+  schemaVersion 2
+  daoPackage 'com.shouqiev.mirror.launcher.fragment.map.dao'
+  targetGenDir 'src/main/java'
+}
+dependencies {
+  implementation fileTree(include: ['*.jar'], dir: 'libs')
+  androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+    exclude group: 'com.android.support', module: 'support-annotations'
+  })
+  implementation 'com.android.support:cardview-v7:27.+'
+  implementation 'com.android.support:appcompat-v7:27.+'
+  implementation 'com.android.support:support-core-ui:27.+'
+  //定位功能
+  implementation 'com.amap.api:location:latest.integration'
+  //搜索功能
+  implementation 'com.amap.api:search:latest.integration'
+  //海康后视镜
+  implementation files('libs/HikMirror.jar')
+  implementation 'com.amap.api:navi-3dmap:latest.integration'
+  testImplementation 'junit:junit:4.12'
+  implementation 'com.squareup.okhttp3:okhttp:3.11.0'
+  implementation 'com.alibaba:fastjson:1.2.49'
+  implementation 'com.github.bumptech.glide:glide:4.8.0'
+  annotationProcessor 'com.github.bumptech.glide:compiler:4.8.0'
+  implementation 'com.jakewharton:butterknife:8.8.1'
+  annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+  implementation 'org.greenrobot:greendao:3.2.2'
+  implementation 'com.github.iwgang:simplifyspan:2.1'
+  implementation 'com.norbsoft.typefacehelper:library:0.9.0'
+  implementation 'org.greenrobot:eventbus:3.0.0'
+  //语音动画view
+  implementation 'com.haozhang.libary:android-animated-recording-view:1.0'
+  implementation 'com.github.rubensousa:gravitysnaphelper:1.5'
+  //弹幕
+  implementation 'com.anbetter:danmukulight:1.0.1'
+  implementation 'com.romandanylyk:pageindicatorview:1.0.2'
+  //高斯模糊
+  implementation 'jp.wasabeef:blurry:2.1.1'
+  //腾讯bugly
+  implementation 'com.tencent.bugly:crashreport:latest.release'
+  implementation 'com.tencent.bugly:nativecrashreport:latest.release'
+  implementation project(':voicelibrary')
+  implementation 'com.android.support:recyclerview-v7:27.1.1'
+  implementation files('libs/BaiduLBS_Android.jar')
+  implementation files('libs/IndoorscapeAlbumPlugin.jar')
+  implementation 'com.android.support:support-v4:27.1.1'
+  implementation 'com.orhanobut:logger:2.2.0'
+}

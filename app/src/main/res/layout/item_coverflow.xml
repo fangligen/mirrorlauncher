@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardView"
+    android:layout_width="@dimen/cover_width"
+    android:layout_height="@dimen/cover_height"
+    android:elevation="5dp"
+    android:translationZ="25dp"
+    android:clickable="true"
+    app:cardCornerRadius="@dimen/dp_8"
+    app:cardElevation="@dimen/dp_28"
+    app:cardBackgroundColor="@android:color/transparent">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@drawable/tutorial_card_bg">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/cover_width"
+        android:layout_height="@dimen/cover_height"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerInside"
+        android:layout_above="@+id/label"/>
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_64"
+        tools:text="启动车辆"
+        android:textColor="@color/text_gray"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
+  </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

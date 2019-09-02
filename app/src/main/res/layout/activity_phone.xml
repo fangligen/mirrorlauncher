@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#f0303030"
+    >
+
+    <TextView
+        android:id="@+id/phone_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:text="拔号中..."
+        />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100px"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:src="@mipmap/phone_header"
+            />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="50px"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="#fff"
+                android:textSize="19dp"
+                android:text="400 019 0808"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:textColor="#acacac"
+                android:textSize="16dp"
+                android:text="GoFun 出行"
+
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300px"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:id="@+id/phone_goback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/icon_phone_back"
+            />
+        <ImageView
+            android:id="@+id/phone_stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60px"
+            android:src="@mipmap/icon_phone_stop"
+            />
+    </LinearLayout>
+</RelativeLayout>

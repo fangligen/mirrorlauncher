@@ -1,0 +1,3371 @@
+{
+  "RECORDS": [
+    {
+      "parkingid": "00491f82-fe63-406e-bfa1-195d8cc92b06",
+      "ParkingName": "首汽集团东门外停车场(北新桥)DZM",
+      "ParkingAddress": "北京市东城区交道口东大街2号",
+      "Longitude": "116.416725",
+      "Latitude": "39.940112"
+    },
+    {
+      "parkingid": "00d52dc2fbf64a949d4a5ddbe087b64a",
+      "ParkingName": "金友超市底商停车位（请勿挡底商门口）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇范老师养生堂双柳巷小区",
+      "Longitude": "116.581555",
+      "Latitude": "39.906613"
+    },
+    {
+      "parkingid": "0124fa0c-2422-4a66-b53d-443468802fed",
+      "ParkingName": "金泽家园路侧（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇腾飞汽车服务中心金泽家园C区",
+      "Longitude": "116.561631",
+      "Latitude": "39.958543"
+    },
+    {
+      "parkingid": "022e616439c64692837f2538fabf3eee",
+      "ParkingName": "七天酒店鸟巢店地面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道安慧北里逸园安慧北里逸园南区",
+      "Longitude": "116.414546",
+      "Latitude": "40.000131"
+    },
+    {
+      "parkingid": "02d6f186-f0b3-4330-82b5-2ab27f22de13",
+      "ParkingName": "中坤大厦地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区北下关街道中坤大厦",
+      "Longitude": "116.350135",
+      "Latitude": "39.943728"
+    },
+    {
+      "parkingid": "03920752-0fc7-417b-81ba-23d26881ec4f",
+      "ParkingName": "东潞苑佳园农贸市场西门门前停车位（请规范停车）TZ",
+      "ParkingAddress": "北京市通州区永顺镇潞苑中路",
+      "Longitude": "116.671439",
+      "Latitude": "39.936435"
+    },
+    {
+      "parkingid": "03f471b8-6e3e-4c32-99e0-96dbfb4baa12",
+      "ParkingName": "鹤渡岭美术馆底商停车场（请勿挡底商门口）TZ",
+      "ParkingAddress": "北京市通州区宋庄镇徐宋路251号沃德中心",
+      "Longitude": "116.718211",
+      "Latitude": "39.9639"
+    },
+    {
+      "parkingid": "04383e20c4a344d5a586c49358350bea",
+      "ParkingName": "首开广场（回龙观东大街）辅路停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道首开国风美唐天龙苑(回龙观东大街)",
+      "Longitude": "116.355477",
+      "Latitude": "40.080551"
+    },
+    {
+      "parkingid": "044076ce8daa40909a808ad489c2733e",
+      "ParkingName": "捷驿佳宾馆门前停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇定福庄路",
+      "Longitude": "116.563585",
+      "Latitude": "39.919321"
+    },
+    {
+      "parkingid": "044267a0-6f80-4df8-a9d0-05b352b9dc4e",
+      "ParkingName": "皇家大饭店地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区香河园街道静安西街北京皇家大饭店",
+      "Longitude": "116.442948",
+      "Latitude": "39.959851"
+    },
+    {
+      "parkingid": "0489d2f1-4aac-4924-91fd-151d28ed03b1",
+      "ParkingName": "永辉超市（回龙观店）地面停车场HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道回龙观西大街118号1幢",
+      "Longitude": "116.318352",
+      "Latitude": "40.074388"
+    },
+    {
+      "parkingid": "048bfcd2-7331-407e-83cf-6e0072506114",
+      "ParkingName": "霞光里35号院（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区麦子店街道霄云路62号霞光里35号院",
+      "Longitude": "116.459985",
+      "Latitude": "39.956749"
+    },
+    {
+      "parkingid": "04f98a16-03b1-4857-896d-add4e22c6635",
+      "ParkingName": "天津百饺园（方庄店）地面停车场",
+      "ParkingAddress": "北京市丰台区方庄镇老磁器口豆汁店(方庄店)芳群园4区",
+      "Longitude": "116.430294",
+      "Latitude": "39.859002"
+    },
+    {
+      "parkingid": "05784ace-0cbf-4a14-93bd-1d90f704ec8c",
+      "ParkingName": "远洋一方路侧车位CY",
+      "ParkingAddress": "北京市朝阳区管庄镇塔营北街管庄新村D区",
+      "Longitude": "116.598243",
+      "Latitude": "39.902339"
+    },
+    {
+      "parkingid": "0609202d-6788-4d5f-b276-4d3a23cfdaa6",
+      "ParkingName": "白堆子地铁站A出口路侧停车位JDQ",
+      "ParkingAddress": "北京市海淀区甘家口街道首都体育馆南路首都师范大学东校区",
+      "Longitude": "116.325573",
+      "Latitude": "39.924401"
+    },
+    {
+      "parkingid": "06cc733a-f4ca-4bf8-bcbf-8f0a8eb508a8",
+      "ParkingName": "菜市口地铁站D口西地面停车场NZ",
+      "ParkingAddress": "北京市西城区北京银行(宣武门支行)枫桦豪景",
+      "Longitude": "116.372636",
+      "Latitude": "39.888761"
+    },
+    {
+      "parkingid": "073a059478c04b9da7a8ff0c7eb8887d",
+      "ParkingName": "龙冠商务中心银座（北侧辅路）划线停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙腾苑(二区)龙冠商务中心金座",
+      "Longitude": "116.337059",
+      "Latitude": "40.079604"
+    },
+    {
+      "parkingid": "08861725c5234d198b37b78c73c1212c",
+      "ParkingName": "芳园南街道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇芳园南街芳园南里西区",
+      "Longitude": "116.482681",
+      "Latitude": "39.969905"
+    },
+    {
+      "parkingid": "08d12e07-cc00-467a-aac5-7930445234ba",
+      "ParkingName": "如家快捷酒店(北京传媒大学店)CY",
+      "ParkingAddress": "北京市朝阳区三间房镇动力街区美然·动力街区",
+      "Longitude": "116.559986",
+      "Latitude": "39.92345"
+    },
+    {
+      "parkingid": "09b86dfd-cbb6-4599-9d45-1502a2c6646f",
+      "ParkingName": "龙禧苑一区（育知东路）路侧地面停车场（请规范停车）HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙禧二街43号",
+      "Longitude": "116.332231",
+      "Latitude": "40.086336"
+    },
+    {
+      "parkingid": "09dd2c01b4784d89a70c3c60678dedf8",
+      "ParkingName": "塔营街道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇塔营街",
+      "Longitude": "116.596499",
+      "Latitude": "39.899929"
+    },
+    {
+      "parkingid": "09f0a9ba690a4f71b524ae4b077395f8",
+      "ParkingName": "驼房营路道路两侧辅路停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇驼房营路丁香园",
+      "Longitude": "116.503078",
+      "Latitude": "39.973842"
+    },
+    {
+      "parkingid": "0ab9cd5d85b145ef9264c143499b7e80",
+      "ParkingName": "凉水河公园一区停车位",
+      "ParkingAddress": "北京市大兴区北京经济技术开发区西环南路",
+      "Longitude": "116.524062",
+      "Latitude": "39.769506"
+    },
+    {
+      "parkingid": "0b05d147569341b7b2275d7f2ce4eb42",
+      "ParkingName": "次渠北里125号楼南侧停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇次渠北里(北区)次渠家园北里1区",
+      "Longitude": "116.573814",
+      "Latitude": "39.806547"
+    },
+    {
+      "parkingid": "0b553f71-b435-4f6e-8855-389465380d5d",
+      "ParkingName": "腾信北京分公司西北门路侧（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇高安屯路非中心",
+      "Longitude": "116.612569",
+      "Latitude": "39.93215"
+    },
+    {
+      "parkingid": "0becac0f5f7d4acfb70deb7a5507b465",
+      "ParkingName": "槐房万达广场东侧路侧停车位NZ（停车入位）",
+      "ParkingAddress": "北京市丰台区南苑乡南苑西路518号万达广场(槐房店)",
+      "Longitude": "116.369956",
+      "Latitude": "39.814109"
+    },
+    {
+      "parkingid": "0dc83b7252984e74855d8b0fed7b9867",
+      "ParkingName": "亦城景园东侧路侧停车位（规范停车）",
+      "ParkingAddress": "北京市大兴区北京经济技术开发区经海六路亦城景园",
+      "Longitude": "116.571717",
+      "Latitude": "39.790376"
+    },
+    {
+      "parkingid": "0dd52800-0f05-46fa-87c4-a606eae184e9",
+      "ParkingName": "草桥国际文化城NZ（请停车入位）",
+      "ParkingAddress": "北京市丰台区花乡南四环中路234号北京国际文化城",
+      "Longitude": "116.362687",
+      "Latitude": "39.829413"
+    },
+    {
+      "parkingid": "0e3ff793-2c5c-4e96-bf86-b58c160ff477",
+      "ParkingName": "中国银行（西罗园支行）地面停车场NZ（请勿停路侧电子收费区！）",
+      "ParkingAddress": "北京市丰台区西罗园街道马家堡东路38-211号西罗园3区",
+      "Longitude": "116.387248",
+      "Latitude": "39.860382"
+    },
+    {
+      "parkingid": "0e69c5ec-74a9-4c6b-b619-fc6646a8fd65",
+      "ParkingName": "莫泰168酒店-北京安贞桥店 AZ",
+      "ParkingAddress": "北京市东城区和平里街道胜古北路莫泰168旅店(北京安贞桥店)",
+      "Longitude": "116.407816",
+      "Latitude": "39.972206"
+    },
+    {
+      "parkingid": "0e8035bd-6b71-43d0-a551-f2ab7de66282",
+      "ParkingName": "常营社区卫生服务中心路侧（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇三间房东路北京懋隆文化产业创意园",
+      "Longitude": "116.583109",
+      "Latitude": "39.922058"
+    },
+    {
+      "parkingid": "0f80d45496bb423d8cd837affc913190",
+      "ParkingName": "旧宫工业区南侧路侧停车位（停车入位）",
+      "ParkingAddress": "北京市大兴区旧宫镇旧忠路东亚五环国际",
+      "Longitude": "116.448679",
+      "Latitude": "39.794584"
+    },
+    {
+      "parkingid": "10544196-1bee-44d9-b4a6-cd2d0b406b40",
+      "ParkingName": "潘家园街道图书馆对面停车场SJ",
+      "ParkingAddress": "北京市朝阳区潘家园街道武圣东路潘家园街道图书馆(武圣东路)",
+      "Longitude": "116.472501",
+      "Latitude": "39.875865"
+    },
+    {
+      "parkingid": "10de5890-3fd4-46ec-87ba-693ed0a1192f",
+      "ParkingName": "常营公园保利园东南侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇保利嘉园常营公园保利园",
+      "Longitude": "116.60395",
+      "Latitude": "39.927857"
+    },
+    {
+      "parkingid": "11bcefb6c2b441d19636447e96e870e9",
+      "ParkingName": "姚家园西里7号西侧道路两侧停车位（规范停车）HD",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园西里中路甲7号金隅凤麟洲东区",
+      "Longitude": "116.512107",
+      "Latitude": "39.943245"
+    },
+    {
+      "parkingid": "120d301e-7d46-41f2-9418-feffd8f922fe",
+      "ParkingName": "艺水芳园东侧路侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇乐栋300",
+      "Longitude": "116.566118",
+      "Latitude": "39.905239"
+    },
+    {
+      "parkingid": "124c85eb-8cd4-4984-98d8-eca9cf712dab",
+      "ParkingName": "龙腾苑四区北门外东侧路侧车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙腾苑(四区)龙腾苑4区",
+      "Longitude": "116.343506",
+      "Latitude": "40.075497"
+    },
+    {
+      "parkingid": "12cb9541ca39440383d9560ba6b198f6",
+      "ParkingName": "聚福苑小区东侧道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇碟碟不休(二外店)聚福苑",
+      "Longitude": "116.556983",
+      "Latitude": "39.917215"
+    },
+    {
+      "parkingid": "130122d74f464ab2ab562538762b7541",
+      "ParkingName": "中央美术学院南区南门路侧WJ",
+      "ParkingAddress": "北京市朝阳区望京街道花家地南街10号中央美术学院",
+      "Longitude": "116.465437",
+      "Latitude": "39.981294"
+    },
+    {
+      "parkingid": "13197ad0-9857-4d8d-a108-6089fe3edbd8",
+      "ParkingName": "水岸中街路侧车位TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇水岸中街润泽公馆",
+      "Longitude": "116.437516",
+      "Latitude": "40.055208"
+    },
+    {
+      "parkingid": "1350427e73d64d1987219d12c09e4168",
+      "ParkingName": "福海棠东侧道路两侧停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道南四环中路109号福海棠华苑",
+      "Longitude": "116.382347",
+      "Latitude": "39.832968"
+    },
+    {
+      "parkingid": "138ae6bb-533e-4db6-a85c-9967fa627f72",
+      "ParkingName": "望京新荟城地面停车场（宝马）WJ",
+      "ParkingAddress": "北京市朝阳区望京街道麦禾学园(新荟城购物中心)新荟城购物中心",
+      "Longitude": "116.482105",
+      "Latitude": "39.999313"
+    },
+    {
+      "parkingid": "149f4ac1-1fd7-4a76-a6fe-5e7616a096bf",
+      "ParkingName": "同方大厦地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区清华园街道同方大厦B座清华大学",
+      "Longitude": "116.334513",
+      "Latitude": "39.997027"
+    },
+    {
+      "parkingid": "14d41668-e006-44a0-a719-6fd3b0709dab",
+      "ParkingName": "258电器大世界地面停车位（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区麦子店街道时尚258广场",
+      "Longitude": "116.471717",
+      "Latitude": "39.944845"
+    },
+    {
+      "parkingid": "1538a791-6865-40f1-a97e-53f18176283d",
+      "ParkingName": "方庄餐饮街台阶上地面停车场",
+      "ParkingAddress": "北京市丰台区方庄镇芳城园(三区)芳城园3区",
+      "Longitude": "116.436013",
+      "Latitude": "39.866137"
+    },
+    {
+      "parkingid": "1615107bc1194af299daa3d0409ae76f",
+      "ParkingName": "常营中路道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营中路万象新天四区西区",
+      "Longitude": "116.592312",
+      "Latitude": "39.927888"
+    },
+    {
+      "parkingid": "164e9575-3f40-4d17-9c6c-614dc9ca6497",
+      "ParkingName": "金驹家园D区路侧（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇戴蒙徳国际婴幼园金驹家园D区",
+      "Longitude": "116.561861",
+      "Latitude": "39.962811"
+    },
+    {
+      "parkingid": "16dc70ce-3146-4299-bd6d-d14d83a2a902",
+      "ParkingName": "北七家果蔬好生活超市地面停车场TTY",
+      "ParkingAddress": "北京市昌平区北七家镇立汤路60号院36号楼一层",
+      "Longitude": "116.413645",
+      "Latitude": "40.116152"
+    },
+    {
+      "parkingid": "1714df5cf0aa4e29a5db22c96f61d4be",
+      "ParkingName": "麦当劳（槐房西路店）门前及右侧停车位NZ",
+      "ParkingAddress": "北京市丰台区南苑街道呷哺呷哺(新宫客得福超市店)南庭新苑北区",
+      "Longitude": "116.368089",
+      "Latitude": "39.804929"
+    },
+    {
+      "parkingid": "171c4258-a2f3-4c33-ad84-e7c0b869eebf",
+      "ParkingName": "通州北苑地铁B出口地面停车场TZ",
+      "ParkingAddress": "北京市通州区北苑街道杨庄北街48号华联购物中心(天时名苑店)",
+      "Longitude": "116.637208",
+      "Latitude": "39.903638"
+    },
+    {
+      "parkingid": "18f21066dc224ff7b8697399fe3e2120",
+      "ParkingName": "驼房营南里东侧道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇驼房营南路兆维小区",
+      "Longitude": "116.505321",
+      "Latitude": "39.960163"
+    },
+    {
+      "parkingid": "18f49e14f2af492fa5cff624ee4b79e5",
+      "ParkingName": "瑞风飞扬商店路侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区东风镇东风南路东山公寓",
+      "Longitude": "116.494666",
+      "Latitude": "39.954015"
+    },
+    {
+      "parkingid": "19863820-fec0-4298-8c46-861f3995dba4",
+      "ParkingName": "恒森典当行门前停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区梨园镇翠屏北里(西区)翠屏北里西区",
+      "Longitude": "116.644092",
+      "Latitude": "39.889086"
+    },
+    {
+      "parkingid": "19b844cb8b3a4a34ad15b25626fdf8e2",
+      "ParkingName": "瞰都北侧路侧停车位(规范停车)JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇东四环北路辅路瞰都",
+      "Longitude": "116.484928",
+      "Latitude": "39.962335"
+    },
+    {
+      "parkingid": "19c5899b-a963-4332-806b-18904a4020c0",
+      "ParkingName": "麦当劳得来速停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区梨园镇海通·梧桐苑",
+      "Longitude": "116.639652",
+      "Latitude": "39.873765"
+    },
+    {
+      "parkingid": "1a75aa9225b549f4a0df1f319c723769",
+      "ParkingName": "海德维修网点",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园旧路",
+      "Longitude": "116.516254",
+      "Latitude": "39.93849"
+    },
+    {
+      "parkingid": "1c3bd6e677f6472194dcc44900628c3a",
+      "ParkingName": "经典商务宾馆门前底商停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区管庄镇建东苑北京工业大学中加学院",
+      "Longitude": "116.587237",
+      "Latitude": "39.915954"
+    },
+    {
+      "parkingid": "1cc310be-dfa5-48dc-86d3-d317b1ae5d4a",
+      "ParkingName": "风荷曲苑底商地面停车场XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥街道风荷曲苑",
+      "Longitude": "116.30201",
+      "Latitude": "39.884457"
+    },
+    {
+      "parkingid": "1d0642d055fa42be884ed61b65766425",
+      "ParkingName": "四得公园北门地面停车场（规范停车）",
+      "ParkingAddress": "北京市朝阳区将台镇将台西路9号北京市朝阳区四得公园",
+      "Longitude": "116.477109",
+      "Latitude": "39.9732"
+    },
+    {
+      "parkingid": "1d9f8e1d-1342-4377-81c3-65f552784b1d",
+      "ParkingName": "海德酒店地面充电桩停车位（宝马）HD",
+      "ParkingAddress": "北京市朝阳区平房镇海德温泉酒店海德酒店",
+      "Longitude": "116.51614",
+      "Latitude": "39.935614"
+    },
+    {
+      "parkingid": "1f308404-db2f-47f0-b4fe-e330b8ae3734",
+      "ParkingName": "安徽大厦地面停车场 AZ",
+      "ParkingAddress": "北京市朝阳区小关街道惠新西街甲1号安徽大厦",
+      "Longitude": "116.415758",
+      "Latitude": "39.988143"
+    },
+    {
+      "parkingid": "1f9db3e7373a4702bcb24ec56103f96c",
+      "ParkingName": "孙家村路道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇孙家村路将府家园",
+      "Longitude": "116.507918",
+      "Latitude": "39.975965"
+    },
+    {
+      "parkingid": "201c7b69ce1f45438c5e975e5de2fbec",
+      "ParkingName": "管庄西里小区内路侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区管庄镇美真双语幼儿园建东苑",
+      "Longitude": "116.58788",
+      "Latitude": "39.917311"
+    },
+    {
+      "parkingid": "221ff513-475b-4de2-a656-58cb53b2238b",
+      "ParkingName": "中乐六星酒店电动汽车充电站地面停车场",
+      "ParkingAddress": "丰台区芳群园三区中乐六星酒店电动汽车充电站地面停车场",
+      "Longitude": "116.426226",
+      "Latitude": "39.861662"
+    },
+    {
+      "parkingid": "2280654bc076470187485c3b30b59eff",
+      "ParkingName": "陆军总医院东区门前及道路两侧停车位（规范停车）DZM",
+      "ParkingAddress": "北京市朝阳区麦子店街道朝阳公园西路18号",
+      "Longitude": "116.470849",
+      "Latitude": "39.94218"
+    },
+    {
+      "parkingid": "233b5a52-d612-4ca1-98d1-d74228e0d77a",
+      "ParkingName": "南航明珠商务酒店门口路侧停车位(宝马)DZM",
+      "ParkingAddress": "北京市朝阳区建外街道东三环中路辅路南航明珠商务酒店",
+      "Longitude": "116.462551",
+      "Latitude": "39.906524"
+    },
+    {
+      "parkingid": "23cc328b-196e-4a20-83a7-a5908a2df193",
+      "ParkingName": "天泰苑三期A8区南路侧CY",
+      "ParkingAddress": "北京市朝阳区三间房镇天泰苑新村",
+      "Longitude": "116.567388",
+      "Latitude": "39.918332"
+    },
+    {
+      "parkingid": "23eb643bc85e4cefb269f31e47028eb6",
+      "ParkingName": "晓月苑二里西侧道路两侧停车位XZ",
+      "ParkingAddress": "北京市丰台区宛平城镇晓月中路晓月苑二里",
+      "Longitude": "116.238189",
+      "Latitude": "39.838403"
+    },
+    {
+      "parkingid": "243b1e60764f48b6a553c10dce44becc",
+      "ParkingName": "将府家园北里地面停车场f",
+      "ParkingAddress": "北京市朝阳区将台镇将府家园",
+      "Longitude": "116.504832",
+      "Latitude": "39.976482"
+    },
+    {
+      "parkingid": "24860d0c-bdb2-4562-929b-504d0b18d505",
+      "ParkingName": "龙禧苑二区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道兴泽岩韵龙禧苑2区",
+      "Longitude": "116.342956",
+      "Latitude": "40.086424"
+    },
+    {
+      "parkingid": "2556baa2-f730-489e-bac9-bae748b00c69",
+      "ParkingName": "亚运村金钱豹地面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道中奥华美达大酒店中奥华美达酒店",
+      "Longitude": "116.403931",
+      "Latitude": "40.005424"
+    },
+    {
+      "parkingid": "25572c3e-4823-45b8-ba61-b58b33c345c8",
+      "ParkingName": "福成肥牛（北关店）地面停车场【请规范停车】TZ",
+      "ParkingAddress": "北京市通州区永顺镇通燕高速辅路",
+      "Longitude": "116.653872",
+      "Latitude": "39.921936"
+    },
+    {
+      "parkingid": "26119bf7-f7b9-451c-9303-3f934c494a7a",
+      "ParkingName": "联创大厦地面停车场SD",
+      "ParkingAddress": "北京市海淀区上地街道潇湘府(上地旗舰店)联创大厦(上地西路)",
+      "Longitude": "116.30172",
+      "Latitude": "40.043983"
+    },
+    {
+      "parkingid": "26529e11413640efb146f369b4d826dc",
+      "ParkingName": "东风南路辅路停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区东风镇东风南路南十里居",
+      "Longitude": "116.498492",
+      "Latitude": "39.953914"
+    },
+    {
+      "parkingid": "2682600a5d9e4289bbfe886bc9120675",
+      "ParkingName": "三合家园东北门外两侧路肩车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道育知西路三合庄园",
+      "Longitude": "116.321171",
+      "Latitude": "40.081819"
+    },
+    {
+      "parkingid": "26caeff6-81c3-46ee-9e6d-ecbbaf6ad89c",
+      "ParkingName": "潞河医院体检中心门前停车位（请勿挡底商门前）TZ",
+      "ParkingAddress": "北京市通州区梨园镇九棵树东路359号",
+      "Longitude": "116.676855",
+      "Latitude": "39.878069"
+    },
+    {
+      "parkingid": "26fea3202b57450c9d8d8cff4a0a1ab5",
+      "ParkingName": "望京广顺北大街路侧停车位2号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道广顺北大街19-7号",
+      "Longitude": "116.46727",
+      "Latitude": "40.007182"
+    },
+    {
+      "parkingid": "27cb207326b44515bd805eb5abf47d50",
+      "ParkingName": "海鶄落新村北侧停车位（规范停车）TTY",
+      "ParkingAddress": "北京市昌平区北七家镇七星路海鶄落新村",
+      "Longitude": "116.433965",
+      "Latitude": "40.103876"
+    },
+    {
+      "parkingid": "286440f2337c4cc684feac306ede47a1",
+      "ParkingName": "宣颐家园东南侧停车场（规范停车）",
+      "ParkingAddress": "北京市大兴区旧宫镇科技路宣颐家园(宣颐路)",
+      "Longitude": "116.454144",
+      "Latitude": "39.809175"
+    },
+    {
+      "parkingid": "29291afd-3f75-4a5a-bac9-c1966086da29",
+      "ParkingName": "速8酒店（双桥店）地面停车场CY",
+      "ParkingAddress": "北京市朝阳区黑庄户镇双桥六号井小区燕保·双桥家园",
+      "Longitude": "116.602993",
+      "Latitude": "39.890601"
+    },
+    {
+      "parkingid": "293c2f90-f21f-4668-8e13-83e7a48f3c12",
+      "ParkingName": "泰山饭店内地面停车场HLG",
+      "ParkingAddress": "北京市海淀区清河街道韩香馆(泰山饭店东南)泰山饭店",
+      "Longitude": "116.329387",
+      "Latitude": "40.048879"
+    },
+    {
+      "parkingid": "294033eae6524d66bdb09d08f61d5da7",
+      "ParkingName": "恩菲科技大厦充电桩专用车位（请勿停路侧！）XZ",
+      "ParkingAddress": "北京市海淀区羊坊店街道中国建设银行(北京金安支行)恩菲科技大厦",
+      "Longitude": "116.321435",
+      "Latitude": "39.905345"
+    },
+    {
+      "parkingid": "29c1d87bb6334510b9a92b87dfc608d7",
+      "ParkingName": "清欣园小区地面停车场（请规范停车）",
+      "ParkingAddress": "北京市大兴区旧宫镇科技路临111号清欣园",
+      "Longitude": "116.441725",
+      "Latitude": "39.807277"
+    },
+    {
+      "parkingid": "2a68ef78ca9848d1a4d5b9f972f79aec",
+      "ParkingName": "苹果派西南角停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇苹果派",
+      "Longitude": "116.576937",
+      "Latitude": "39.927883"
+    },
+    {
+      "parkingid": "2a802a47-6ac5-435f-99de-5c95812a6715",
+      "ParkingName": "次渠购物中心地面停车场",
+      "ParkingAddress": "北京市通州区台湖镇田老师红烧肉(亦庄次渠店)",
+      "Longitude": "116.569951",
+      "Latitude": "39.803399"
+    },
+    {
+      "parkingid": "2a996a8811164d8abe21f1570bdd1016",
+      "ParkingName": "山城辣妹子火锅门前底商停车位(规范停车)CY",
+      "ParkingAddress": "北京市朝阳区三间房镇山城辣妹子(定福庄店)北京水利水电学校",
+      "Longitude": "116.566643",
+      "Latitude": "39.915944"
+    },
+    {
+      "parkingid": "2ac5eb6f-3fc1-4567-8d83-207908449ff9",
+      "ParkingName": "中国建设银行（东坝中路支行）门前车位（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇北京市凤友文化培训学校朝新嘉园东里5区",
+      "Longitude": "116.557074",
+      "Latitude": "39.951877"
+    },
+    {
+      "parkingid": "2ae4775c-db0c-4da2-b1ca-c1350b50a4fa",
+      "ParkingName": "时代风帆大厦（美廉美超市）路侧停车位NZ（请停车入位）",
+      "ParkingAddress": "北京市丰台区马家堡街道马家堡西路角门西里晨新园小区",
+      "Longitude": "116.371022",
+      "Latitude": "39.846659"
+    },
+    {
+      "parkingid": "2b69b7dfa8e541fabf62194272ec68ef",
+      "ParkingName": "朝阳消防支队南侧停车位（规范停车）HD",
+      "ParkingAddress": "北京市朝阳区东风镇姚家园路新七彩商业中心",
+      "Longitude": "116.506817",
+      "Latitude": "39.93769"
+    },
+    {
+      "parkingid": "2c19288b-7787-440c-a430-3745406c559c",
+      "ParkingName": "运河文化广场充电桩停车位（请勿长时间占用）TZ",
+      "ParkingAddress": "北京市通州区永顺镇运河文化广场",
+      "Longitude": "116.680671",
+      "Latitude": "39.913195"
+    },
+    {
+      "parkingid": "2ca2bef7-36cf-4934-bb67-a014a098f683",
+      "ParkingName": "富河园小区地面停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇富河园甲6号宿舍富河园(通顺路辅路)",
+      "Longitude": "116.655154",
+      "Latitude": "39.926098"
+    },
+    {
+      "parkingid": "2d0124e2-af8b-484b-b5e9-637527674626",
+      "ParkingName": "汉庭酒店（西大望路店）地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区双井街道西大望路汉庭酒店(北京西大望路店)",
+      "Longitude": "116.477788",
+      "Latitude": "39.899655"
+    },
+    {
+      "parkingid": "2d66f94b-7f7f-460c-aafb-c20d3eff7741",
+      "ParkingName": "奥东18号地面停车场 AZ",
+      "ParkingAddress": "北京市朝阳区小关街道奥东18",
+      "Longitude": "116.413958",
+      "Latitude": "39.982758"
+    },
+    {
+      "parkingid": "2d75a918-74ce-4107-abcb-62fcc74366ff",
+      "ParkingName": "安贞华联地面停车场  AZ",
+      "ParkingAddress": "朝阳区北三环安贞西里五区4号华联商厦",
+      "Longitude": "116.400724",
+      "Latitude": "39.970517"
+    },
+    {
+      "parkingid": "2d7c19da65e54254b227e12ef68e9c93",
+      "ParkingName": "大瓦窑地铁站B口停车位（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡G4京港澳高速辅路",
+      "Longitude": "116.241077",
+      "Latitude": "39.859881"
+    },
+    {
+      "parkingid": "2da66032-7f44-43b0-a241-1dc242325280",
+      "ParkingName": "望京中广宜景湾西南1门外东侧路测车位（请规范停车）",
+      "ParkingAddress": "北京市朝阳区望京街道望京西路75号",
+      "Longitude": "116.456322",
+      "Latitude": "39.987005"
+    },
+    {
+      "parkingid": "2da71f70-8f92-4a71-bff4-b874af5b95b5",
+      "ParkingName": "明天第一城6号院3号楼外南侧地面停车场TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇明天第一城明天第一城6号院",
+      "Longitude": "116.408616",
+      "Latitude": "40.048328"
+    },
+    {
+      "parkingid": "2db6c979-c676-46e9-acd0-3b06723233c7",
+      "ParkingName": "金隅汇景苑路侧（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇汇景苑小学",
+      "Longitude": "116.536759",
+      "Latitude": "39.955096"
+    },
+    {
+      "parkingid": "2ea60b471a6942ec871414adc6eed279",
+      "ParkingName": "马家堡西里北侧停车位（规范停车）NZ",
+      "ParkingAddress": "北京市丰台区马家堡街道角门北路47号马家堡西里",
+      "Longitude": "116.372256",
+      "Latitude": "39.850778"
+    },
+    {
+      "parkingid": "2ec8b6b7757a4c2a93c331662f1cdea1",
+      "ParkingName": "宜必思酒店门前停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营民族家园常营民族家园G区",
+      "Longitude": "116.589171",
+      "Latitude": "39.928388"
+    },
+    {
+      "parkingid": "2ed0c9ab-40cc-425c-bd4f-de76da2415fc",
+      "ParkingName": "龙锦苑六区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙锦三街龙锦苑4区",
+      "Longitude": "116.345239",
+      "Latitude": "40.083478"
+    },
+    {
+      "parkingid": "2f4a0f51-6cbf-4dd4-96ea-a3337329d702",
+      "ParkingName": "亦庄凉水河直流充电桩站点停车场",
+      "ParkingAddress": "北京市大兴区北京经济技术开发区国家电网汽车充电站(西环北路充电站)",
+      "Longitude": "116.489249",
+      "Latitude": "39.788085"
+    },
+    {
+      "parkingid": "2fa058e6-1a65-49e1-8a75-7ff16fc0a244",
+      "ParkingName": "瑞祥里西区东侧路侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区管庄镇瑞祥里西区(北区)瑞祥里西区北区",
+      "Longitude": "116.612453",
+      "Latitude": "39.912197"
+    },
+    {
+      "parkingid": "30b53c35e01a4895a78466bfcaea683b",
+      "ParkingName": "望京北路路侧停车位2号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京北路中国数码港大厦",
+      "Longitude": "116.478952",
+      "Latitude": "40.011658"
+    },
+    {
+      "parkingid": "3141f3e4bc1242f69713d167f05d41ba",
+      "ParkingName": "东亚上北鑫座（回龙观西大街）辅路路侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道回龙观西大街138号",
+      "Longitude": "116.331498",
+      "Latitude": "40.079057"
+    },
+    {
+      "parkingid": "31c1c020-cc77-4671-a589-b5faa4a78e37",
+      "ParkingName": "永辉超市（通州半壁店店）TZ",
+      "ParkingAddress": "北京市通州区梨园镇怡乐南街半壁店商业广场",
+      "Longitude": "116.637121",
+      "Latitude": "39.881491"
+    },
+    {
+      "parkingid": "32893a42-f395-42b1-96f2-da176c299d66",
+      "ParkingName": "华联常营B2层充电桩停车位CY",
+      "ParkingAddress": "北京市朝阳区常营镇天际万象高尔夫花园北京华联(常营购物中心)",
+      "Longitude": "116.596931",
+      "Latitude": "39.926444"
+    },
+    {
+      "parkingid": "32caa934-283b-4a84-8d77-6a093b8d7726",
+      "ParkingName": "华腾世纪总部公园（东北门）地面停车场HD",
+      "ParkingAddress": "北京市朝阳区高碑店镇华腾世纪总部公园E2座华腾世纪总部公园",
+      "Longitude": "116.512192",
+      "Latitude": "39.911999"
+    },
+    {
+      "parkingid": "32eb35faafd84e15a08d05ded55042d4",
+      "ParkingName": "华馨园小区西侧路侧停车位（停车入位）",
+      "ParkingAddress": "北京市通州区台湖镇铺西路",
+      "Longitude": "116.582789",
+      "Latitude": "39.803825"
+    },
+    {
+      "parkingid": "33252e4d7b1a45d79f660a7f93bb946a",
+      "ParkingName": "沸城社区南侧停车坪（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区宛平城镇S50南五环晓月八里",
+      "Longitude": "116.243529",
+      "Latitude": "39.831852"
+    },
+    {
+      "parkingid": "33cac540-209b-497a-b228-08051ff52bec",
+      "ParkingName": "7天连锁酒店（北京动物园店）地面停车场",
+      "ParkingAddress": "北京市海淀区北下关街道7天酒店(北京动物园店)北京交通大学中关村东升科技园",
+      "Longitude": "116.342203",
+      "Latitude": "39.946396"
+    },
+    {
+      "parkingid": "347aa34d-84eb-4388-8261-f2d5581eef51",
+      "ParkingName": "非中心西侧路侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇草房西路非中心",
+      "Longitude": "116.610932",
+      "Latitude": "39.928372"
+    },
+    {
+      "parkingid": "3508d648-aca9-4518-8ea2-9e07dec7750b",
+      "ParkingName": "上地数码大厦地面停车场SD",
+      "ParkingAddress": "北京市海淀区上地街道李先生(上地店)北京体育大学",
+      "Longitude": "116.313961",
+      "Latitude": "40.026351"
+    },
+    {
+      "parkingid": "35173864-1072-4742-9c1b-a902f60a8595",
+      "ParkingName": "长安商场地面停车场XZ",
+      "ParkingAddress": "北京市西城区月坛街道复兴门外大街53号长安商场",
+      "Longitude": "116.345909",
+      "Latitude": "39.907738"
+    },
+    {
+      "parkingid": "35d3b9647699427787d473932859b84a",
+      "ParkingName": "回龙观体育公园北门辅路停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道回龙观西大街",
+      "Longitude": "116.340811",
+      "Latitude": "40.080069"
+    },
+    {
+      "parkingid": "362d8589-0c42-4022-8847-c2607215765e",
+      "ParkingName": "酒仙桥桥头停车场JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道红霞路1号院将台滨河公园",
+      "Longitude": "116.489839",
+      "Latitude": "39.96681"
+    },
+    {
+      "parkingid": "3706c4db421a4c9c9ea3a5b683cfeeb1",
+      "ParkingName": "东庄小区西侧路侧停车位NZ（停车入位）",
+      "ParkingAddress": "北京市丰台区右安门街道东庄一巷东庄小区",
+      "Longitude": "116.380611",
+      "Latitude": "39.869754"
+    },
+    {
+      "parkingid": "3724c202-5a1a-46ea-8937-0403dca9da22",
+      "ParkingName": "通州三元村菜市场停车位（请停车入位）TZ",
+      "ParkingAddress": "北京市通州区潞城镇紫运园",
+      "Longitude": "116.706133",
+      "Latitude": "39.912696"
+    },
+    {
+      "parkingid": "38db49bc-d6c4-4e9f-be56-43761773611e",
+      "ParkingName": "龙锦苑四区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙锦二街龙锦苑4区",
+      "Longitude": "116.34842",
+      "Latitude": "40.086574"
+    },
+    {
+      "parkingid": "395a6751-af17-4e37-8785-dee6b85b41bc",
+      "ParkingName": "紫光大厦地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区中关村东路1号",
+      "Longitude": "116.332389",
+      "Latitude": "39.995435"
+    },
+    {
+      "parkingid": "396b485f07cd49aebbabeb94a9ba60a6",
+      "ParkingName": "鸿博家园F区北侧道路两侧停车位（规范停车）",
+      "ParkingAddress": "北京市朝阳区小红门镇三台山路7号庞大新能源汽车总汇",
+      "Longitude": "116.454159",
+      "Latitude": "39.827536"
+    },
+    {
+      "parkingid": "3a111adfbc5040c9998b1119f3748d47",
+      "ParkingName": "云趣园2区东南角底商停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙禧三街62号",
+      "Longitude": "116.332264",
+      "Latitude": "40.083011"
+    },
+    {
+      "parkingid": "3b758e77-88bc-4e65-9218-41d09fb3978c",
+      "ParkingName": "建达大厦内地面停车场专属停车位（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区和平街街道东土城路14-140号建达大厦",
+      "Longitude": "116.432807",
+      "Latitude": "39.953232"
+    },
+    {
+      "parkingid": "3bedb8676b4f478ba3782f93ab223779",
+      "ParkingName": "北京奥林匹克花园四期北区南门路侧DB",
+      "ParkingAddress": "北京市朝阳区东坝镇北京奥林匹克花园(南区)",
+      "Longitude": "116.541538",
+      "Latitude": "39.958572"
+    },
+    {
+      "parkingid": "3c4676ee-8369-4509-bb48-0f231f965ead",
+      "ParkingName": "健德桥麦当劳地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区祁家豁子甲2号麦当劳",
+      "Longitude": "116.380929",
+      "Latitude": "39.976213"
+    },
+    {
+      "parkingid": "3d4195edfa0647d3b6d18be2ffb16ba5",
+      "ParkingName": "巴依老爷常营店门前底商停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇朝阳北路",
+      "Longitude": "116.581436",
+      "Latitude": "39.924271"
+    },
+    {
+      "parkingid": "3d721523-5adf-4734-abf0-dd5be6896239",
+      "ParkingName": "迎客松大药房门前停车位（勿挡底商）CY",
+      "ParkingAddress": "北京市朝阳区常营镇朝阳北路万象新天四区西区",
+      "Longitude": "116.590513",
+      "Latitude": "39.925693"
+    },
+    {
+      "parkingid": "3dc84e5cff554fbc825c30147abaf122",
+      "ParkingName": "土桥地铁站C口地面停车场（规范停车）TZ",
+      "ParkingAddress": "北京市通州区梨园镇九棵树东路辅路",
+      "Longitude": "116.686184",
+      "Latitude": "39.871671"
+    },
+    {
+      "parkingid": "3e846a962a844aa388d841fab4f1f934",
+      "ParkingName": "天上天建材家居大世界南侧停车场",
+      "ParkingAddress": "北京市大兴区旧宫镇德贤路",
+      "Longitude": "116.430722",
+      "Latitude": "39.808646"
+    },
+    {
+      "parkingid": "3f51302f39e74839888a5464cd274ad5",
+      "ParkingName": "姚家园西里西侧道路两侧停车位（规范停车）HD",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园西里中路",
+      "Longitude": "116.514377",
+      "Latitude": "39.945937"
+    },
+    {
+      "parkingid": "3fecce565ac3472fbc5f9ac2e2e655ea",
+      "ParkingName": "八里桥地铁站A2口停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区管庄镇建国路",
+      "Longitude": "116.617382",
+      "Latitude": "39.905138"
+    },
+    {
+      "parkingid": "400042fd7d4647d39bd7468c037a6ccf",
+      "ParkingName": "龙泽苑东区南侧辅路（请停车规范）HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道同成街龙泽苑东区",
+      "Longitude": "116.326338",
+      "Latitude": "40.071406"
+    },
+    {
+      "parkingid": "4072511c85444a0e95d5176cb411892a",
+      "ParkingName": "次渠南里六区南侧道路两侧停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇次渠南里6区次渠南里7区",
+      "Longitude": "116.576866",
+      "Latitude": "39.800674"
+    },
+    {
+      "parkingid": "4187f080-f00e-4788-b532-029f151ba8a1",
+      "ParkingName": "(京东员工专属）京东总部大楼C座东北角地面专属停车位",
+      "ParkingAddress": "北京市大兴区北京经济技术开发区科创十一街京东大厦",
+      "Longitude": "116.561826",
+      "Latitude": "39.787745"
+    },
+    {
+      "parkingid": "41c697ed-aed5-4b0c-b574-a7ea507e2d1a",
+      "ParkingName": "昆泰商城地面停车场(宝马)DZM",
+      "ParkingAddress": "北京市朝阳区朝外街道沃尔玛(朝阳店)昆泰商城",
+      "Longitude": "116.444541",
+      "Latitude": "39.923076"
+    },
+    {
+      "parkingid": "42832edf-6e11-4a8f-83db-c20a6793b2a7",
+      "ParkingName": "北京小学通州分校东侧停车位（请规范停车）TZ",
+      "ParkingAddress": "北京市通州区永顺镇水仙东路",
+      "Longitude": "116.693501",
+      "Latitude": "39.919828"
+    },
+    {
+      "parkingid": "42ad8e65-0cf3-4716-bf91-3dea48389456",
+      "ParkingName": "格林豪泰酒店（欢乐谷店）地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区南磨房镇格林豪泰酒店(北京市欢乐谷店)",
+      "Longitude": "116.499835",
+      "Latitude": "39.859064"
+    },
+    {
+      "parkingid": "4386c4c937064789bde274a4c413ea79",
+      "ParkingName": "周庄嘉园B区北门底商停车位（规范停车）SJ",
+      "ParkingAddress": "北京市朝阳区十八里店镇弘燕路南新园小区",
+      "Longitude": "116.474393",
+      "Latitude": "39.867803"
+    },
+    {
+      "parkingid": "43ac787e-cc78-4906-ac4e-633432396bdd",
+      "ParkingName": "昆泰国际中心地面南侧停车场DZM",
+      "ParkingAddress": "北京市朝阳区朝阳门外大街昆泰国际中心",
+      "Longitude": "116.441824",
+      "Latitude": "39.922821"
+    },
+    {
+      "parkingid": "4485decd0d134b338f3c71e271e278fd",
+      "ParkingName": "梨花园小区北侧停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区玉桥街道梨园北街276号梨花园",
+      "Longitude": "116.671006",
+      "Latitude": "39.886195"
+    },
+    {
+      "parkingid": "46b17cb2-f4c1-4daa-8d4e-8dce7c9253b4",
+      "ParkingName": "西局地铁站A口地面停车场XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡丰台北路辅路",
+      "Longitude": "116.303275",
+      "Latitude": "39.866402"
+    },
+    {
+      "parkingid": "479b9530c5ab4eb9b398526b81271706",
+      "ParkingName": "次渠北里142号楼东侧停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇次渠北里(西区)次渠家园北里三区",
+      "Longitude": "116.575006",
+      "Latitude": "39.804861"
+    },
+    {
+      "parkingid": "48b9a970440f41329b9c28bcb0b4109e",
+      "ParkingName": "南礼士路地铁站D2口地面停车场XZ",
+      "ParkingAddress": "北京市西城区月坛街道真武庙头条中化大厦",
+      "Longitude": "116.352274",
+      "Latitude": "39.90678"
+    },
+    {
+      "parkingid": "49803eff-6082-4f3e-b2ec-6458d2f99475",
+      "ParkingName": "华尔顿酒店地面停车场XZ",
+      "ParkingAddress": "北京丰台区太平桥街道北京鸿坤国际大酒店",
+      "Longitude": "116.324996",
+      "Latitude": "39.890782"
+    },
+    {
+      "parkingid": "4ac9070f-b82e-4795-88f7-277d50805348",
+      "ParkingName": "阜通西大街南向北辅路2号站路测车位（请规范停车）WJ",
+      "ParkingAddress": "北京市朝阳区望京街道阜通西大街7天优品酒店(北京望京华联店)",
+      "Longitude": "116.468645",
+      "Latitude": "39.991026"
+    },
+    {
+      "parkingid": "4ada008902e54c70b497f921bf16aaf8",
+      "ParkingName": "望京广泽路路侧停车位WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道广泽路",
+      "Longitude": "116.478208",
+      "Latitude": "40.007186"
+    },
+    {
+      "parkingid": "4adaef5e-0c68-4a88-94e9-45421150756e",
+      "ParkingName": "望京国宗中医院地面停车场（宝马）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京明苑",
+      "Longitude": "116.468188",
+      "Latitude": "40.004733"
+    },
+    {
+      "parkingid": "4b3876a2b939471f86735323681c9259",
+      "ParkingName": "望京广顺北大街路侧停车位3号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道广顺北大街六佰本商业街北区",
+      "Longitude": "116.467132",
+      "Latitude": "40.010609"
+    },
+    {
+      "parkingid": "4bc4c999-2a1d-4bca-828e-c45ed8f2c900",
+      "ParkingName": "水上溪洗浴门前停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区梨园镇怡乐中路龙湖花盛香醍",
+      "Longitude": "116.635132",
+      "Latitude": "39.878161"
+    },
+    {
+      "parkingid": "4c4c3001-059f-4391-b757-c3f2b7fee37c",
+      "ParkingName": "英郡小区西门路侧（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇英郡瑞和国际",
+      "Longitude": "116.55358",
+      "Latitude": "39.923115"
+    },
+    {
+      "parkingid": "4c51b955-c408-48ed-bed0-dc593fc12a94",
+      "ParkingName": "首航超市光彩路店地面停车场",
+      "ParkingAddress": "北京市丰台区大红门街道南顶路289号联宏海鲜市场",
+      "Longitude": "116.414738",
+      "Latitude": "39.841316"
+    },
+    {
+      "parkingid": "4c6415661889450d9224d39b8965bc57",
+      "ParkingName": "麦克风KTV地面停车场TTY",
+      "ParkingAddress": "北京市朝阳区塞纳维拉水景花园塞纳维拉",
+      "Longitude": "116.415833",
+      "Latitude": "40.056053"
+    },
+    {
+      "parkingid": "4d3de6eaaa28423691d605133d1a414e",
+      "ParkingName": "旧宫北里东北侧停车场（停车入位）",
+      "ParkingAddress": "北京市大兴区旧宫镇北京南郊农业生产经营管理中心",
+      "Longitude": "116.455395",
+      "Latitude": "39.808407"
+    },
+    {
+      "parkingid": "4f717ba684da4486869853a644885eda",
+      "ParkingName": "鲁班大厦右侧辅路停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇定福庄路定福庄北里1号院",
+      "Longitude": "116.562807",
+      "Latitude": "39.916343"
+    },
+    {
+      "parkingid": "4fd006013e2b4bc8acd56f16a1864219",
+      "ParkingName": "北京市八里庄第三中学西侧路侧停车位HD",
+      "ParkingAddress": "北京市朝阳区六里屯街道朝阳北路北京市八里庄第三中学",
+      "Longitude": "116.496043",
+      "Latitude": "39.92331"
+    },
+    {
+      "parkingid": "4ff9887f-b79b-478e-aa71-9642aab9abf8",
+      "ParkingName": "新秀水街商厦北门地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区建外街道东大桥路秀水街",
+      "Longitude": "116.450041",
+      "Latitude": "39.909357"
+    },
+    {
+      "parkingid": "508f9f69-162c-42b0-9445-dafb86afdcb5",
+      "ParkingName": "紫金新干线二区北停车场HLG",
+      "ParkingAddress": "北京市昌平区霍营街道北京八方颈椎病研究所紫金新干线家园1区",
+      "Longitude": "116.380205",
+      "Latitude": "40.079263"
+    },
+    {
+      "parkingid": "50f26cf3-a475-417a-a9b6-13a8c692f8b7",
+      "ParkingName": "嘉友国际大厦地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区曙光街道蓝靛厂南路25-1号楼万泉小学曙光分校",
+      "Longitude": "116.292186",
+      "Latitude": "39.946267"
+    },
+    {
+      "parkingid": "5158e6d5-64cd-442b-96f1-f24e1fb4bcf5",
+      "ParkingName": "罗马嘉园地面停车场HD",
+      "ParkingAddress": "北京市朝阳区八里庄街道青年路珠江罗马嘉园东区",
+      "Longitude": "116.517088",
+      "Latitude": "39.925315"
+    },
+    {
+      "parkingid": "526f667b-cda6-4c77-9e5b-c6a94a1f9853",
+      "ParkingName": "如家酒店-北京国展三元桥店 AZ",
+      "ParkingAddress": "北京市朝阳区左家庄街道西坝河东里社区",
+      "Longitude": "116.450185",
+      "Latitude": "39.96626"
+    },
+    {
+      "parkingid": "5375617001fa41f69c61f67468f369cc",
+      "ParkingName": "旧宫地铁站地面停车场（请停车入位）",
+      "ParkingAddress": "北京市大兴区旧宫镇旧宫(地铁站)",
+      "Longitude": "116.460504",
+      "Latitude": "39.806828"
+    },
+    {
+      "parkingid": "53c3ed38-6c87-48a6-89ee-cdd771f3fd58",
+      "ParkingName": "通州李老商品市场地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园镇通州区怡乐园一区李老商品市场",
+      "Longitude": "116.635746",
+      "Latitude": "39.891954"
+    },
+    {
+      "parkingid": "53c5e5e3-c549-4cc2-937a-3f403a2a4810",
+      "ParkingName": "通州九棵树地铁B出口地面停车场TZ",
+      "ParkingAddress": "北京市通州区九棵树地铁B出口停车场",
+      "Longitude": "116.65737",
+      "Latitude": "39.89022"
+    },
+    {
+      "parkingid": "53e003cd681643f79a91dcfcf98c05a7",
+      "ParkingName": "世茂奥林花园西区北侧TTY",
+      "ParkingAddress": "北京市朝阳区奥运村街道清林东路龙祥嘉园(清林东路)",
+      "Longitude": "116.402507",
+      "Latitude": "40.036071"
+    },
+    {
+      "parkingid": "544ec485f43f49a2aeec27fe59dbe254",
+      "ParkingName": "流星花园3区西门对面两侧路肩车位HLG",
+      "ParkingAddress": "北京市昌平区东小口镇文华西路",
+      "Longitude": "116.336576",
+      "Latitude": "40.09174"
+    },
+    {
+      "parkingid": "54a244d719d04966b10eb9031a9ac262",
+      "ParkingName": "望京北路路侧停车位3号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京北路是德科技大厦",
+      "Longitude": "116.483091",
+      "Latitude": "40.010406"
+    },
+    {
+      "parkingid": "556f2492-105a-44da-bb28-1cd6e623aac0",
+      "ParkingName": "瑞逸百货地面停车场XZ",
+      "ParkingAddress": "北京市丰台区新村街道纪家庙路",
+      "Longitude": "116.325527",
+      "Latitude": "39.848999"
+    },
+    {
+      "parkingid": "55b44bcf-b7d4-41fe-8dfa-164a4aa05c06",
+      "ParkingName": "通大家园西侧停车场（勿挡底商门口）TZ",
+      "ParkingAddress": "北京市通州区梨园镇通马路通大家园",
+      "Longitude": "116.63774",
+      "Latitude": "39.871559"
+    },
+    {
+      "parkingid": "55c456a0-20cb-4ed6-8c2b-d72f7886637d",
+      "ParkingName": "住欣家园西区南侧路侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营南路",
+      "Longitude": "116.608608",
+      "Latitude": "39.921462"
+    },
+    {
+      "parkingid": "5972c855-1ca1-4ef1-8e4e-2de70351c7b4",
+      "ParkingName": "朝新嘉园东里三区路侧（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇朝新嘉园东里三区(西门)朝新嘉园东里2区",
+      "Longitude": "116.556984",
+      "Latitude": "39.947257"
+    },
+    {
+      "parkingid": "59bbe709-aee6-4703-ab2c-dd8d5b1440fc",
+      "ParkingName": "贵友大厦（建外店）地面停车场(宝马)DZM",
+      "ParkingAddress": "北京市朝阳区建外街道秀水街6-7楼贵友大厦(建外店)",
+      "Longitude": "116.451021",
+      "Latitude": "39.908872"
+    },
+    {
+      "parkingid": "5a11c91f-6236-44d1-95e4-26c92b60dd01",
+      "ParkingName": "龙跃苑东四区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙跃苑东四区龙跃苑东2区",
+      "Longitude": "116.357627",
+      "Latitude": "40.075683"
+    },
+    {
+      "parkingid": "5a7d37dab0994708ae1ec6f825785154",
+      "ParkingName": "眉州东坡酒楼（劲松店）门前路侧停车位SJ",
+      "ParkingAddress": "北京市朝阳区劲松街道劲松路153号劲松2区",
+      "Longitude": "116.455565",
+      "Latitude": "39.884657"
+    },
+    {
+      "parkingid": "5aeb4183-7dc3-42db-835a-8769945b5370",
+      "ParkingName": "天通苑六区西二门路侧停车位（立水桥东一路）TTY",
+      "ParkingAddress": "北京市昌平区天通苑南街道天通苑(六区)天通苑6区",
+      "Longitude": "116.42141",
+      "Latitude": "40.067004"
+    },
+    {
+      "parkingid": "5c2a8b1c-2f1d-4091-97c3-2d46e65b6fe1",
+      "ParkingName": "大鸭梨通景园店停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区梨园镇万盛北里梧桐苑小区",
+      "Longitude": "116.642857",
+      "Latitude": "39.876238"
+    },
+    {
+      "parkingid": "5c51e3eb-097c-477e-a3b2-cd3c7c9e6019",
+      "ParkingName": "百环家园洗车院内停车场SJ",
+      "ParkingAddress": "北京市朝阳区百环家园北武圣北路（洗车院内）",
+      "Longitude": "116.464627",
+      "Latitude": "39.892392"
+    },
+    {
+      "parkingid": "5e24f519-bda6-4f74-8a18-b3dad250207b",
+      "ParkingName": "万柳酒店式公寓地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区海淀街道万柳亿城中心",
+      "Longitude": "116.302557",
+      "Latitude": "39.960757"
+    },
+    {
+      "parkingid": "5e9e3834-7e7d-4bbc-ae8b-cede20a0dc07",
+      "ParkingName": "成铭大厦A座门前专属地面停车位JDQ",
+      "ParkingAddress": "北京市西城区新街口街道成铭大厦A座门前",
+      "Longitude": "116.356453",
+      "Latitude": "39.939009"
+    },
+    {
+      "parkingid": "5ef19dde9c9848e2be2d450fbff936f1",
+      "ParkingName": "管庄东里东北角停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇东十里堡路管庄东里",
+      "Longitude": "116.604551",
+      "Latitude": "39.921411"
+    },
+    {
+      "parkingid": "5f653eb9-6dbe-4239-817a-ae473abce268",
+      "ParkingName": "右安门麦当劳地面停车场NZ",
+      "ParkingAddress": "北京市丰台区右安门外大街1-2号",
+      "Longitude": "116.364086",
+      "Latitude": "39.867903"
+    },
+    {
+      "parkingid": "60c3927e02824ac2abf362d624d5bebd",
+      "ParkingName": "驼房营中心幼儿园北侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇驼房营中心幼儿园",
+      "Longitude": "116.499454",
+      "Latitude": "39.971307"
+    },
+    {
+      "parkingid": "60f045d3e6ee4621bb57184f808d104c",
+      "ParkingName": "望京东路路侧停车位2号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京东路望京国际研发园",
+      "Longitude": "116.48726",
+      "Latitude": "40.006274"
+    },
+    {
+      "parkingid": "6173293e-6d54-4d25-b68c-af7699eef00a",
+      "ParkingName": "领秀硅谷东门外路侧停车场HLG",
+      "ParkingAddress": "北京市海淀区西二旗东二路",
+      "Longitude": "116.318808",
+      "Latitude": "40.057204"
+    },
+    {
+      "parkingid": "61e3d30b-d177-4b49-a6ed-9c5931e3a24f",
+      "ParkingName": "万通新世界地面停车场(宝马)XZ",
+      "ParkingAddress": "北京市西城区阜成门外大街2号",
+      "Longitude": "116.353971",
+      "Latitude": "39.922867"
+    },
+    {
+      "parkingid": "61eadc26-c3a4-40ae-b093-0497ab43ce9a",
+      "ParkingName": "中油首汽十六号加油站专用停车位WJ",
+      "ParkingAddress": "北京市朝阳区望京街道常久青美术工作室中国石油首汽加油站",
+      "Longitude": "116.472443",
+      "Latitude": "39.978272"
+    },
+    {
+      "parkingid": "620d8ab2-1cd1-49b0-b2ff-a7a88546e88c",
+      "ParkingName": "朝阳大悦城后广场立体停车场（地面）HD",
+      "ParkingAddress": "北京市朝阳区平房镇书香朝阳区24小时自助图书馆(北京市朝阳区养犬管理办公室西)",
+      "Longitude": "116.520295",
+      "Latitude": "39.924986"
+    },
+    {
+      "parkingid": "621cc5521df046b78f9d7d94707f4fcb",
+      "ParkingName": "万荣烤鸭店洋桥店门前道路两侧停车位（停车入位）NZ",
+      "ParkingAddress": "北京市丰台区西罗园街道角门北路中国富莱德大厦",
+      "Longitude": "116.384332",
+      "Latitude": "39.849761"
+    },
+    {
+      "parkingid": "62d7143e-27cf-4cba-a60f-98de5dd3e8f7",
+      "ParkingName": "巨石大厦地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市东城区工人体育场北路巨石大厦",
+      "Longitude": "116.439344",
+      "Latitude": "39.934183"
+    },
+    {
+      "parkingid": "62f5228c-1db9-4f39-b1ff-5c1f2de61898",
+      "ParkingName": "新华创新大厦写字楼下地面停车场（请勿停路边！）HLG",
+      "ParkingAddress": "北京市海淀区东升镇西小口路22号莱圳家园北区",
+      "Longitude": "116.345064",
+      "Latitude": "40.047032"
+    },
+    {
+      "parkingid": "63ac0fc2-d417-4f49-b8ba-0968fc072f19",
+      "ParkingName": "口福居（大运村店）对面汽车美容中心地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区花园路街道大运村西路北京航空航天大学",
+      "Longitude": "116.342432",
+      "Latitude": "39.976993"
+    },
+    {
+      "parkingid": "645471f1ad85458594ae5b9dad761b41",
+      "ParkingName": "建欣苑六里南侧停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道建欣路",
+      "Longitude": "116.393115",
+      "Latitude": "39.841972"
+    },
+    {
+      "parkingid": "64ddd41b-b6e4-451d-826f-b2d4477f8a9d",
+      "ParkingName": "朝阳地税局门口路侧（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇定福庄路定福景园",
+      "Longitude": "116.563253",
+      "Latitude": "39.920906"
+    },
+    {
+      "parkingid": "65126fc8-84c0-47cc-8682-a87e670ec8ed",
+      "ParkingName": "和谐家园二区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区霍营街道和谐家园(二区)和谐家园",
+      "Longitude": "116.358532",
+      "Latitude": "40.083928"
+    },
+    {
+      "parkingid": "661fdcd7-e56b-4c59-9c95-befe370aa42f",
+      "ParkingName": "上奥世纪中心地面停车场HLG",
+      "ParkingAddress": "北京市昌平区回龙观街道北京银行(西三旗支行)上奥世纪中心",
+      "Longitude": "116.329313",
+      "Latitude": "40.057048"
+    },
+    {
+      "parkingid": "66d26df8c8a2437c8df5d09ed118a15f",
+      "ParkingName": "大瓦窑中路道路两侧停车位（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡张仪村路",
+      "Longitude": "116.238333",
+      "Latitude": "39.860334"
+    },
+    {
+      "parkingid": "67281651-cbb6-4f78-bda8-6788c82bd2b8",
+      "ParkingName": "合生广场地面停车场NZ",
+      "ParkingAddress": "北京市丰台区南苑乡合生广场",
+      "Longitude": "116.39773",
+      "Latitude": "39.856015"
+    },
+    {
+      "parkingid": "67d944e0-b3a5-4d8b-bd7b-e2074a1eab79",
+      "ParkingName": "物美生活超市潞苑店门口停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇珠江国际城八区",
+      "Longitude": "116.678901",
+      "Latitude": "39.930462"
+    },
+    {
+      "parkingid": "680a713a86c34b40a9dc27017abda053",
+      "ParkingName": "定福家园南里3号院南侧道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区平房镇PianoPro钢琴培训学校(朝阳褡裢坡定福家园店)福盈家园",
+      "Longitude": "116.564878",
+      "Latitude": "39.922368"
+    },
+    {
+      "parkingid": "688ca316-c66f-4121-bde0-ad2584d09e9a",
+      "ParkingName": "晶城秀府西北门地面停车场",
+      "ParkingAddress": "北京市丰台区东铁匠营街道晶城秀府",
+      "Longitude": "116.439453",
+      "Latitude": "39.847877"
+    },
+    {
+      "parkingid": "68dce337-4d46-4cd3-ad93-fa0e8b48c84b",
+      "ParkingName": "太阳能研究所JDQ",
+      "ParkingAddress": "北京市海淀区花园路街道花园路98号金尚嘉园",
+      "Longitude": "116.365575",
+      "Latitude": "39.978795"
+    },
+    {
+      "parkingid": "68f0d4b212d641bdbb92abbc5466af78",
+      "ParkingName": "丰泽家园东侧道路两侧停车位（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡大瓦窑西一街丰泽家园",
+      "Longitude": "116.24143",
+      "Latitude": "39.862866"
+    },
+    {
+      "parkingid": "69d8761b-f494-4990-8ff0-db26ca038261",
+      "ParkingName": "中国第一商城地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区呼家楼街道纽约豪园",
+      "Longitude": "116.471277",
+      "Latitude": "39.915425"
+    },
+    {
+      "parkingid": "6b7c08e9-8e94-42d7-8899-e970d44cc45e",
+      "ParkingName": "中油首汽加油站(霄云路)DZM",
+      "ParkingAddress": "北京市朝阳区太阳宫镇霄云路129号中国石油首汽第8加油站",
+      "Longitude": "116.468139",
+      "Latitude": "39.961525"
+    },
+    {
+      "parkingid": "6cb430517aaa4150b8356fefdd883d18",
+      "ParkingName": "定福家园南里1号院西侧道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区平房镇朝阳北路定福家园南里1号院",
+      "Longitude": "116.570045",
+      "Latitude": "39.923053"
+    },
+    {
+      "parkingid": "6cef0e39-8fe0-42ff-9ac9-4cd05c40f2a0",
+      "ParkingName": "中油首汽加油站(马家堡路)专用停车位NZ",
+      "ParkingAddress": "北京市丰台区大红门街道景馨园中国石油首汽加油站(马家堡路)",
+      "Longitude": "116.37925",
+      "Latitude": "39.834215"
+    },
+    {
+      "parkingid": "6d9c8bf9-7f76-411c-8860-c2adf81b6f99",
+      "ParkingName": "望园大厦停车场XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥街道西四环南路辅路望园大厦",
+      "Longitude": "116.283337",
+      "Latitude": "39.866974"
+    },
+    {
+      "parkingid": "6e665cc0-4303-4c34-9470-dcd7f72e6c58",
+      "ParkingName": "龙头公寓西二门内部地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区十里河南新园西路8号院1-3",
+      "Longitude": "116.464087",
+      "Latitude": "39.868972"
+    },
+    {
+      "parkingid": "6e9279a2-a392-433f-ae85-eedc078f8dae",
+      "ParkingName": "摩码大厦地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区团结湖街道摩码大厦",
+      "Longitude": "116.472788",
+      "Latitude": "39.923831"
+    },
+    {
+      "parkingid": "6f07c86e6740437b8aa3d909124d636b",
+      "ParkingName": "逸翠园北侧道路两侧停车位（规范停车）HD",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园北路逸翠园南区",
+      "Longitude": "116.523123",
+      "Latitude": "39.944469"
+    },
+    {
+      "parkingid": "6f86d98947224c09905907d8f6328633",
+      "ParkingName": "龙腾苑六区（育知路-龙腾街路口）路边停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙腾街龙腾苑6区",
+      "Longitude": "116.3295",
+      "Latitude": "40.074924"
+    },
+    {
+      "parkingid": "6f883a12-bcf0-465f-9118-e75992e43ffe",
+      "ParkingName": "首汽腾达门前停车场XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥街道莲宝路联华世纪写字楼",
+      "Longitude": "116.306893",
+      "Latitude": "39.889893"
+    },
+    {
+      "parkingid": "70bdccf2-bf43-47c3-bf57-d533cb4a598d",
+      "ParkingName": "上地华胜大厦地面停车场SD",
+      "ParkingAddress": "北京市海淀区上地街道华胜大厦(上地五街)方正大厦(上地五街)",
+      "Longitude": "116.307666",
+      "Latitude": "40.040312"
+    },
+    {
+      "parkingid": "70e0ef01-fbda-4675-8d01-79b65b296dba",
+      "ParkingName": "物美大卖场（清河店）地面停车场SD",
+      "ParkingAddress": "北京市海淀区西三旗街道物美大卖场(清河店)水木天成",
+      "Longitude": "116.351608",
+      "Latitude": "40.029842"
+    },
+    {
+      "parkingid": "72d60b10-58e1-41b5-82ff-04fb123c77f4",
+      "ParkingName": "航空总医院地面停车场TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇北京航空总医院-整形外科",
+      "Longitude": "116.421698",
+      "Latitude": "40.029671"
+    },
+    {
+      "parkingid": "73e2e436-28b0-443e-9acb-e78ac0f1b396",
+      "ParkingName": "五粮液大厦地面停车场",
+      "ParkingAddress": "北京市东城区前门街道北桥湾街五粮液大厦",
+      "Longitude": "116.407795",
+      "Latitude": "39.893078"
+    },
+    {
+      "parkingid": "742236ed-6fd6-4f27-99f8-3960d4dc2570",
+      "ParkingName": "欣艺景园底商停车位（农业银行门口）TZ",
+      "ParkingAddress": "北京市通州区玉桥街道玉桥东路欣艺景园",
+      "Longitude": "116.685281",
+      "Latitude": "39.891694"
+    },
+    {
+      "parkingid": "7444f10c3c324038837c811f884f7a96",
+      "ParkingName": "凯基伦大厦地面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道棒约翰比萨(凯基伦店)鸿炜亿家酒店(亚运村店)",
+      "Longitude": "116.426714",
+      "Latitude": "39.994239"
+    },
+    {
+      "parkingid": "74b031aa-a629-45a3-a578-ef4d867e6259",
+      "ParkingName": "塞隆国际地面停车场（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区黑庄户镇双桥东路272号",
+      "Longitude": "116.606208",
+      "Latitude": "39.894982"
+    },
+    {
+      "parkingid": "74ccbf8b4ed44b46a0b566437394e38b",
+      "ParkingName": "望京东路路侧停车位1号站(请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京东路摩托罗拉大厦",
+      "Longitude": "116.485517",
+      "Latitude": "40.007962"
+    },
+    {
+      "parkingid": "757617cc-b60e-4826-bce3-6071b86a73a0",
+      "ParkingName": "三里屯雅秀大厦地面停场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区三里屯街道工人体育场北路58号北三里社区",
+      "Longitude": "116.452967",
+      "Latitude": "39.934172"
+    },
+    {
+      "parkingid": "759c9d24-0fba-43a2-8b1f-45402ba9eef3",
+      "ParkingName": "北辰福第V中心B座（对面路中心）路侧停车位CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营中路北辰福第V中心",
+      "Longitude": "116.599599",
+      "Latitude": "39.927913"
+    },
+    {
+      "parkingid": "75e05346-44bf-429a-ad87-7d0bb330f6df",
+      "ParkingName": "望京阜通西大街南向北辅路1号站路测车位（请规范停车）",
+      "ParkingAddress": "北京市朝阳区望京街道阜通西大街都市心海岸雅园",
+      "Longitude": "116.466406",
+      "Latitude": "39.988913"
+    },
+    {
+      "parkingid": "76a100ea9dfd4560a77912343f6b44e3",
+      "ParkingName": "流星花园2区东北角路北停车场HLG",
+      "ParkingAddress": "北京市昌平区东小口镇回南北路流星花园3区",
+      "Longitude": "116.33691",
+      "Latitude": "40.089157"
+    },
+    {
+      "parkingid": "76dce572293049fbbcdf14ece7100e86",
+      "ParkingName": "月亮河城堡公寓北侧占道停车位（请停车入位）TZ",
+      "ParkingAddress": "北京市通州区永顺镇芙蓉北路",
+      "Longitude": "116.675164",
+      "Latitude": "39.921808"
+    },
+    {
+      "parkingid": "7718e2be-f40e-4dc8-b775-ab6dcb07e456",
+      "ParkingName": "苏宁易购（亚运村店）对面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道北苑路中安盛业大厦",
+      "Longitude": "116.417325",
+      "Latitude": "39.996588"
+    },
+    {
+      "parkingid": "7738fe67-80bf-4e09-b6e7-2b5ce10129f6",
+      "ParkingName": "向导教学中心门前停车场XZ",
+      "ParkingAddress": "北京市海淀区羊坊店街道博望园",
+      "Longitude": "116.324397",
+      "Latitude": "39.904931"
+    },
+    {
+      "parkingid": "777e8114-bf7e-42df-bafd-0a3d4f990260",
+      "ParkingName": "龙锦苑五区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙锦三街天龙苑(回龙观东大街)",
+      "Longitude": "116.353134",
+      "Latitude": "40.083769"
+    },
+    {
+      "parkingid": "78348e82-b774-4d56-adb2-4d6524a21a17",
+      "ParkingName": "高碑店北花园路侧车位CY",
+      "ParkingAddress": "北京市朝阳区高碑店镇北花园中路北花园",
+      "Longitude": "116.551117",
+      "Latitude": "39.904343"
+    },
+    {
+      "parkingid": "788cc834-0490-45ba-8774-6f18e5668b1b",
+      "ParkingName": "谷德玛特生活超市(宋庄店)门口停车场TZ",
+      "ParkingAddress": "北京市通州区宋庄镇013县道谷德玛特购物广场",
+      "Longitude": "116.729506",
+      "Latitude": "39.943665"
+    },
+    {
+      "parkingid": "79f8fda9-6c8b-4b5d-9251-80b15c8ed67e",
+      "ParkingName": "北工大西门地铁站A口地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区潘家园街道松榆北路",
+      "Longitude": "116.476102",
+      "Latitude": "39.875703"
+    },
+    {
+      "parkingid": "7aac37c2e812412ca4e6367b0f6ca3a4",
+      "ParkingName": "世茂奥林花园东区北门路侧TTY",
+      "ParkingAddress": "北京市朝阳区奥运村街道清林东路龙祥嘉园(清林东路)",
+      "Longitude": "116.404664",
+      "Latitude": "40.035033"
+    },
+    {
+      "parkingid": "7b3fb879ba724c1ca6caf414def30c37",
+      "ParkingName": "福怡苑小区南侧道路两侧停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇定福庄北街36号福怡苑小区北区",
+      "Longitude": "116.554562",
+      "Latitude": "39.92054"
+    },
+    {
+      "parkingid": "7b7be771-d7af-4e79-b15e-026d9cc423ca",
+      "ParkingName": "立业大厦地面停车场NZ",
+      "ParkingAddress": "北京市丰台区西罗园街道立业大厦立业大厦(马家堡东路)",
+      "Longitude": "116.386202",
+      "Latitude": "39.851865"
+    },
+    {
+      "parkingid": "7c464cc3-24be-4d60-8ba6-1be90078b799",
+      "ParkingName": "团结湖北京银行地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区团结湖街道水碓子社区水碓子西里",
+      "Longitude": "116.467448",
+      "Latitude": "39.923529"
+    },
+    {
+      "parkingid": "7c70e826bae148a3a83b93a2c223cc67",
+      "ParkingName": "阳光星苑北区东侧停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区南苑乡西红门路阳光星苑北区",
+      "Longitude": "116.373392",
+      "Latitude": "39.794053"
+    },
+    {
+      "parkingid": "7ca26777417d44858d6aefe5e41199f5",
+      "ParkingName": "碧海公园西侧充电桩停车位（请勿长时间占用）",
+      "ParkingAddress": "北京市大兴区旧宫镇碧海公园",
+      "Longitude": "116.443328",
+      "Latitude": "39.809831"
+    },
+    {
+      "parkingid": "7cfbe36f-368c-44d5-9871-4787fc895d8d",
+      "ParkingName": "圣熙8号购物中心地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区学院路街道石板房南路18号圣熙8号购物中心",
+      "Longitude": "116.353897",
+      "Latitude": "40.008134"
+    },
+    {
+      "parkingid": "7d94c992-f663-4dca-9232-017378ce2239",
+      "ParkingName": "泰兴大厦地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区花园路街道花园北路22号泰兴大厦(花园东路)",
+      "Longitude": "116.368359",
+      "Latitude": "39.980413"
+    },
+    {
+      "parkingid": "7e9fac50-e6d4-4b48-9354-dd15868d1f50",
+      "ParkingName": "波士顿国际健身会所门前停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区平房镇定福庄北街102院福盈家园",
+      "Longitude": "116.567832",
+      "Latitude": "39.920446"
+    },
+    {
+      "parkingid": "7f868b9a-ef05-45bf-b9fe-af9459b6e755",
+      "ParkingName": "朝来绿色家园来春园门前路侧TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇北苑东路256号朝来绿色家园来春园",
+      "Longitude": "116.439542",
+      "Latitude": "40.035089"
+    },
+    {
+      "parkingid": "7fb0b077-f6d4-4c80-a465-ae9bd4d536d1",
+      "ParkingName": "中国邮政运河投递部门前停车位（请停车入位）TZ",
+      "ParkingAddress": "北京市通州区玉桥街道中国邮政储蓄银行(运河支行)葛布店北里小区",
+      "Longitude": "116.660321",
+      "Latitude": "39.892513"
+    },
+    {
+      "parkingid": "7fbf4685-4da6-4482-a238-bda834d21a11",
+      "ParkingName": "悦秀城生活广场地面停车场NZ",
+      "ParkingAddress": "北京市丰台区右安门街道U-SHOW悦秀城生活广场",
+      "Longitude": "116.375784",
+      "Latitude": "39.868418"
+    },
+    {
+      "parkingid": "80171776-c20c-462d-a0c4-f4a3e2af371e",
+      "ParkingName": "首汽丰田汽车销售服务有限公司JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道亮马桥路11号首汽丰田汽车销售服务有限公司",
+      "Longitude": "116.488819",
+      "Latitude": "39.958917"
+    },
+    {
+      "parkingid": "80c545ea-1a7d-4909-9924-2746945ec0ad",
+      "ParkingName": "蓝岛大厦（通州店）地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园镇蓝岛大厦地面停车场",
+      "Longitude": "116.666071",
+      "Latitude": "39.878094"
+    },
+    {
+      "parkingid": "80eeb3e0-1518-4640-b2f5-565c0f216f85",
+      "ParkingName": "千禧购物中心A座地面停车场XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡靛厂路11号千禧购物中心",
+      "Longitude": "116.283264",
+      "Latitude": "39.890285"
+    },
+    {
+      "parkingid": "8113d848d7c64f608d4602f9f3c398a5",
+      "ParkingName": "百灵大厦地面停车场f（规范停车）",
+      "ParkingAddress": "北京市朝阳区左家庄街道左家庄前街百灵大厦",
+      "Longitude": "116.443418",
+      "Latitude": "39.953561"
+    },
+    {
+      "parkingid": "814bf522-6e9c-40e5-a155-607a9d3658b6",
+      "ParkingName": "纪家庙地铁站东北停车场XZ",
+      "ParkingAddress": "北京市丰台区花乡纪家庙(地铁站)亿朋苑",
+      "Longitude": "116.333518",
+      "Latitude": "39.844882"
+    },
+    {
+      "parkingid": "82154f40-2310-455f-b57c-ec027a6bc4c8",
+      "ParkingName": "望京旺角购物广场地面停车场（宝马）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京旺角购物广场",
+      "Longitude": "116.463487",
+      "Latitude": "40.00156"
+    },
+    {
+      "parkingid": "82593da87d574f6896ae0d5046690b22",
+      "ParkingName": "小寺村南街道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇小寺村南街远洋·新悦",
+      "Longitude": "116.609948",
+      "Latitude": "39.897232"
+    },
+    {
+      "parkingid": "837f639500a448f1acee1b8f814d8141",
+      "ParkingName": "首城珑玺东南角DB",
+      "ParkingAddress": "北京市朝阳区东坝镇单店西路9号保利首开·丽湾家园",
+      "Longitude": "116.531021",
+      "Latitude": "39.967761"
+    },
+    {
+      "parkingid": "83bb2cb9450649c2a78a8d096f0d3492",
+      "ParkingName": "天客隆超市对面望京西路西侧辅路（注意规范停车）",
+      "ParkingAddress": "北京市朝阳区望京街道望京西路花家地西里1区",
+      "Longitude": "116.456914",
+      "Latitude": "39.987201"
+    },
+    {
+      "parkingid": "847227a7-d078-4cd0-9301-f7d21ce92d20",
+      "ParkingName": "如家酒店-北京广安门店XZ",
+      "ParkingAddress": "北京市西城区广安门外街道手帕口南街71号手帕口西一巷",
+      "Longitude": "116.342438",
+      "Latitude": "39.884522"
+    },
+    {
+      "parkingid": "84d2bfa0-4f09-47e0-9930-a03643eb1d2f",
+      "ParkingName": "北京工业大学通州校区北门右侧路侧停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇陈列馆南街北京工业大学通州分校",
+      "Longitude": "116.668712",
+      "Latitude": "39.931323"
+    },
+    {
+      "parkingid": "8527dab9-07ba-4348-9513-91439c1246dd",
+      "ParkingName": "如家精选酒店（北京国贸店）SJ",
+      "ParkingAddress": "北京市朝阳区双井街道百子湾南二路25号爱工场文化产业园",
+      "Longitude": "116.47604",
+      "Latitude": "39.900422"
+    },
+    {
+      "parkingid": "8555bf9d7731449886c00ad09cc01d93",
+      "ParkingName": "回龙观临时充电运维网点",
+      "ParkingAddress": "北京市昌平区回龙观街道龙域北街龙域西二路2号院",
+      "Longitude": "116.304403",
+      "Latitude": "40.066005"
+    },
+    {
+      "parkingid": "869ca200-7e25-4235-adc2-b0c079159cdf",
+      "ParkingName": "三里屯中宇大厦地面停车场【宝马】DZM",
+      "ParkingAddress": "北京市朝阳区工体北路甲6号",
+      "Longitude": "116.45614",
+      "Latitude": "39.933272"
+    },
+    {
+      "parkingid": "86fa3321b84b4de58413caaeaf0af107",
+      "ParkingName": "左安路（公交站）路西台阶上停车场SJ",
+      "ParkingAddress": "北京市朝阳区潘家园街道华威路广西大厦",
+      "Longitude": "116.455943",
+      "Latitude": "39.873464"
+    },
+    {
+      "parkingid": "87118b90-b89d-4377-92ef-22584f1c4d93",
+      "ParkingName": "卜蜂莲花（石佛营店）地面停车场HD",
+      "ParkingAddress": "北京市朝阳区六里屯街道石佛营路11号",
+      "Longitude": "116.504681",
+      "Latitude": "39.928041"
+    },
+    {
+      "parkingid": "8736126d-a8ac-4541-b69d-2a91fbd4e81e",
+      "ParkingName": "领行国际地面停车场（宝马）SJ",
+      "ParkingAddress": "北京市东城区龙潭街道广渠门南小街领行国际中心",
+      "Longitude": "116.442587",
+      "Latitude": "39.892939"
+    },
+    {
+      "parkingid": "881a377d-e546-4d25-bd50-d0baf235b21a",
+      "ParkingName": "蓝筹名座底商前台阶上停车场（别挡店铺门口）DZM",
+      "ParkingAddress": "北京市朝阳区朝外街道蓝筹名座(DE座)蓝筹名座",
+      "Longitude": "116.440184",
+      "Latitude": "39.927225"
+    },
+    {
+      "parkingid": "882011a0e2f14bb6a2a7b3f710dc25b5",
+      "ParkingName": "汉庭酒店对面底商停车位（停车入位）",
+      "ParkingAddress": "北京市大兴区旧宫镇科技路121号旧宫医院(科技路)",
+      "Longitude": "116.44593",
+      "Latitude": "39.80874"
+    },
+    {
+      "parkingid": "88a43d57-e427-4945-b352-1f6c2569a874",
+      "ParkingName": "金比特健身中心底商前停车场",
+      "ParkingAddress": "北京市通州区台湖镇定海园一里定海园三里",
+      "Longitude": "116.565026",
+      "Latitude": "39.798466"
+    },
+    {
+      "parkingid": "88b1ec289d624335a73f41748e20fc21",
+      "ParkingName": "驼房营西里小区北侧道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇驼房营南路3号电子城小区西区",
+      "Longitude": "116.501627",
+      "Latitude": "39.96648"
+    },
+    {
+      "parkingid": "88b39e9c8d10424c9eddd40d2865c1d9",
+      "ParkingName": "常营公园地面停车场CY",
+      "ParkingAddress": "北京市朝阳区常营镇幺家店路常营公园",
+      "Longitude": "116.581173",
+      "Latitude": "39.932415"
+    },
+    {
+      "parkingid": "892f5522-805c-46db-b902-d4d8e2f74d61",
+      "ParkingName": "京客隆乔庄店门口停车场（请规范停车）TZ",
+      "ParkingAddress": "北京市通州区永顺镇远乔嘉园(北区)运乔嘉园",
+      "Longitude": "116.688091",
+      "Latitude": "39.896085"
+    },
+    {
+      "parkingid": "8a42b5d6-fa87-43df-9bba-6f9f3576e75c",
+      "ParkingName": "东晓市街西侧地面停车场",
+      "ParkingAddress": "北京市东城区东晓市街204号金鱼池东区（金鱼池街）",
+      "Longitude": "116.412092",
+      "Latitude": "39.890485"
+    },
+    {
+      "parkingid": "8a83ab9d-19a4-40e0-abe4-cea06981b8bf",
+      "ParkingName": "长远天地大厦地面停车场（不可停在地库）ZGC",
+      "ParkingAddress": "北京市海淀区海淀街道长远天地大厦B1座长远天地大厦",
+      "Longitude": "116.30687",
+      "Latitude": "39.977309"
+    },
+    {
+      "parkingid": "8af60a5c-059e-4548-80d0-a8ba550a49c0",
+      "ParkingName": "7天连锁酒店（亦庄科创三街店）地面停车场",
+      "ParkingAddress": "北京市大兴区亦庄镇7天酒店(科创三街店)",
+      "Longitude": "116.531944",
+      "Latitude": "39.812609"
+    },
+    {
+      "parkingid": "8c6b89bf-e3f8-4b09-8f53-1fff7c4966d2",
+      "ParkingName": "四惠地铁站B口地面停车场HD",
+      "ParkingAddress": "北京市朝阳区高碑店镇京通大厦",
+      "Longitude": "116.495652",
+      "Latitude": "39.908559"
+    },
+    {
+      "parkingid": "8c6e91ce-5227-40af-a520-4116c6d68ead",
+      "ParkingName": "天通东苑三区西二门商铺前停车场",
+      "ParkingAddress": "北京市昌平区天通苑北街道天通东苑(三区)天通东苑三区",
+      "Longitude": "116.43696",
+      "Latitude": "40.069569"
+    },
+    {
+      "parkingid": "8ccffc11-0839-4fe2-bad7-2b7b522e406c",
+      "ParkingName": "中油首汽七号加油站专属停车位DZM",
+      "ParkingAddress": "北京市朝阳区将台镇亮马桥路322号桂尔公园",
+      "Longitude": "116.482441",
+      "Latitude": "39.957315"
+    },
+    {
+      "parkingid": "8d767f20-5aaf-41b9-a54e-1adb8c74258e",
+      "ParkingName": "富力蕙兰美居E区东侧停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇潞苑中路富力惠兰美居",
+      "Longitude": "116.677641",
+      "Latitude": "39.943002"
+    },
+    {
+      "parkingid": "8dd5b08ee7194fb08e08bec48b91f87d",
+      "ParkingName": "望京河荫西路路侧停车位（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道河荫西路",
+      "Longitude": "116.466352",
+      "Latitude": "40.004892"
+    },
+    {
+      "parkingid": "8e02f202-40bb-4d0b-af67-a0be4674c895",
+      "ParkingName": "中油首汽二号加油站便利店专属停车位JDQ",
+      "ParkingAddress": "北京市海淀区甘家口街道紫竹院南路3号中国建筑材料集团有限公司",
+      "Longitude": "116.31975",
+      "Latitude": "39.938453"
+    },
+    {
+      "parkingid": "8fae24a8-3f17-4397-b616-6bcfbf554fe0",
+      "ParkingName": "首开·福茂地面停车场（请停车入位）",
+      "ParkingAddress": "北京市丰台区东铁匠营街道石榴园派出所警务工作站首开·福茂",
+      "Longitude": "116.426355",
+      "Latitude": "39.846488"
+    },
+    {
+      "parkingid": "8fd6f463-65b4-4676-8fac-ad5576f6b9cb",
+      "ParkingName": "时代庄园公交站路侧停车位TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇北京朝来绿色家园蕴实园(时代庄园西南)蕴实园",
+      "Longitude": "116.432371",
+      "Latitude": "40.039716"
+    },
+    {
+      "parkingid": "918d3db5-e91f-42ca-be16-b99b30869130",
+      "ParkingName": "龙跃苑三区北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙跃苑(三区)龙跃苑1区",
+      "Longitude": "116.353532",
+      "Latitude": "40.075494"
+    },
+    {
+      "parkingid": "91960f74-96bb-4fdb-8ffb-dc598f9653d6",
+      "ParkingName": "太平庄中二街天通中苑一区西区路侧停车场TTY",
+      "ParkingAddress": "北京市昌平区天通苑北街道天通中苑天通中苑西区",
+      "Longitude": "116.421942",
+      "Latitude": "40.074095"
+    },
+    {
+      "parkingid": "91bf5761b5e94236b24c1f9886ea2cae",
+      "ParkingName": "望京东路路侧WJ",
+      "ParkingAddress": "北京市朝阳区望京街道望京东路",
+      "Longitude": "116.487636",
+      "Latitude": "39.990966"
+    },
+    {
+      "parkingid": "9275a59e-b200-4cc0-9665-453aff2cafb1",
+      "ParkingName": "天洋城4代（续航低于30公里不要还到这里）TZ",
+      "ParkingAddress": "河北省廊坊市三河市燕郊镇天洋城4代2期",
+      "Longitude": "116.826032",
+      "Latitude": "39.922771"
+    },
+    {
+      "parkingid": "92821975d4bc4ea58ac4c177d4392c61",
+      "ParkingName": "次渠地铁站西南侧停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇北小营路",
+      "Longitude": "116.591473",
+      "Latitude": "39.802684"
+    },
+    {
+      "parkingid": "9433215780d04a9e94af6e082d5d7137",
+      "ParkingName": "南十里居十号院北侧道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区东风镇朝恒美术学校(酒仙桥路)南十里居10号院",
+      "Longitude": "116.500587",
+      "Latitude": "39.957858"
+    },
+    {
+      "parkingid": "949646be-74f5-4293-a31b-9ba189f93477",
+      "ParkingName": "立国集团北侧停车场SJ",
+      "ParkingAddress": "北京市朝阳区潘家园街道华威西里",
+      "Longitude": "116.451324",
+      "Latitude": "39.873581"
+    },
+    {
+      "parkingid": "94f3eab2-2846-401e-a0fc-730eb79a53e5",
+      "ParkingName": "劲松富顿中心地面停车场（宝马）SJ",
+      "ParkingAddress": "北京市朝阳区东三环南路58号",
+      "Longitude": "116.463048",
+      "Latitude": "39.885657"
+    },
+    {
+      "parkingid": "95671572-4346-4dc4-a7e2-8a1f4c8bb281",
+      "ParkingName": "中发百旺商城地面停车场SD",
+      "ParkingAddress": "北京市海淀区马连洼街道竹园西街中发百旺商城",
+      "Longitude": "116.276853",
+      "Latitude": "40.028261"
+    },
+    {
+      "parkingid": "958f4a6f-c9c2-4285-b887-274e3e9c9152",
+      "ParkingName": "天恒大厦地面停车场充电桩专用车位（宝马）DZM",
+      "ParkingAddress": "北京市东城区东直门街道东中街天恒大厦",
+      "Longitude": "116.436812",
+      "Latitude": "39.940793"
+    },
+    {
+      "parkingid": "95c9bb38ed0d479b97ea6a4d22d6a74f",
+      "ParkingName": "云柏鞋业旧宫店门前停车位（请规范停车）",
+      "ParkingAddress": "北京市大兴区旧宫镇旧宫东西大街润光格林酒店(北京大兴旧宫店)",
+      "Longitude": "116.439523",
+      "Latitude": "39.804929"
+    },
+    {
+      "parkingid": "969fc1cf-585f-4458-bfb2-9a79d13d3d99",
+      "ParkingName": "东亚上北中心北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙禧三街东亚·上北中心",
+      "Longitude": "116.339571",
+      "Latitude": "40.083083"
+    },
+    {
+      "parkingid": "96cf604099454f1189a4129e9b23feee",
+      "ParkingName": "建欣苑二里南侧停车位NZ（停车入位）",
+      "ParkingAddress": "北京市丰台区大红门街道建欣路",
+      "Longitude": "116.395791",
+      "Latitude": "39.842083"
+    },
+    {
+      "parkingid": "97189da7-25f6-442b-807e-2845f8200306",
+      "ParkingName": "西北旺东路路侧地面停车场（必须规范停车）SD",
+      "ParkingAddress": "北京市海淀区马连洼街道西山壹号院36号楼西山壹号院北区",
+      "Longitude": "116.271166",
+      "Latitude": "40.0431"
+    },
+    {
+      "parkingid": "98ffc08a-4c1b-48cf-8da7-c8cacc21cbbd",
+      "ParkingName": "炫特区北门地上停车场（宝马）HD",
+      "ParkingAddress": "北京市朝阳区六里屯街道炫特区",
+      "Longitude": "116.507453",
+      "Latitude": "39.931132"
+    },
+    {
+      "parkingid": "9ab445f7-829d-4fb3-950c-89f413f54edd",
+      "ParkingName": "马连道中国移动营业厅地面停车场XZ",
+      "ParkingAddress": "北京市西城区广安门外街道马连道路4号北京市通信管理局",
+      "Longitude": "116.326638",
+      "Latitude": "39.887773"
+    },
+    {
+      "parkingid": "9ae91902-97c5-4ec8-bec9-e118b02fcf70",
+      "ParkingName": "华纺易城东区地面停车场（小区内停车场）HD",
+      "ParkingAddress": "北京市朝阳区平房镇华纺易城三期华纺易城东区",
+      "Longitude": "116.513811",
+      "Latitude": "39.93106"
+    },
+    {
+      "parkingid": "9bae53c7a6dc4f8e86846eb7ab0c3b3a",
+      "ParkingName": "温泉北里小区东侧停车坪CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇双桥东路双桥温泉北里小区",
+      "Longitude": "116.607877",
+      "Latitude": "39.892623"
+    },
+    {
+      "parkingid": "9bb5410ab99740ad849d7693cfc76353",
+      "ParkingName": "万红路道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇万红路丽都1号",
+      "Longitude": "116.507069",
+      "Latitude": "39.9804"
+    },
+    {
+      "parkingid": "9c9f7425-8b3e-417e-9b99-4916746b3e02",
+      "ParkingName": "翠成馨园东区东侧地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区垡头街道起航国际幼儿园垡头翠城盛园社区",
+      "Longitude": "116.513757",
+      "Latitude": "39.857655"
+    },
+    {
+      "parkingid": "9ccec790-33a6-41b0-ac57-2fdfe746d1a8",
+      "ParkingName": "汉庭酒店（欢乐谷店）门前停车场SJ",
+      "ParkingAddress": "北京市朝阳区十八里店镇汉庭酒店(北京欢乐谷店)",
+      "Longitude": "116.484411",
+      "Latitude": "39.853744"
+    },
+    {
+      "parkingid": "9eb7016db8ca4e50bb224dd1950cddf7",
+      "ParkingName": "风景线东北角EV充电桩停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇芳园南街风景线(将台西路)",
+      "Longitude": "116.483011",
+      "Latitude": "39.971298"
+    },
+    {
+      "parkingid": "9eb80036-3719-4ff4-904b-1eddc7600e3e",
+      "ParkingName": "艺苑西里底商停车位（请勿挡门口）TZ",
+      "ParkingAddress": "北京市通州区永顺镇玉桥西路63号玉桥西路37号院",
+      "Longitude": "116.670866",
+      "Latitude": "39.894088"
+    },
+    {
+      "parkingid": "9ef6176b-e059-4187-9c39-158bce7902e7",
+      "ParkingName": "海淀文化艺术大厦地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区中关村街道知春路海淀剧院(中关村店)",
+      "Longitude": "116.318974",
+      "Latitude": "39.976327"
+    },
+    {
+      "parkingid": "a1e66582-79fd-44a5-8aa3-fbc486e3effc",
+      "ParkingName": "美廉美（花园路店）门前地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区花园路13号",
+      "Longitude": "116.363861",
+      "Latitude": "39.972976"
+    },
+    {
+      "parkingid": "a3344137-9504-4373-94c8-d75cad0e2677",
+      "ParkingName": "北京国家数字出版基地东北门地面停车位XZ",
+      "ParkingAddress": "北京市丰台区花乡看丹南路榆园",
+      "Longitude": "116.264168",
+      "Latitude": "39.835116"
+    },
+    {
+      "parkingid": "a3e9c536-bc73-4d39-aa28-0d2235c74797",
+      "ParkingName": "世界花卉大观园西侧地面停车场NZ",
+      "ParkingAddress": "北京市丰台区花乡花神街喜庆文化创意园区世界花卉大观园热带雨林酒店西侧",
+      "Longitude": "116.34731",
+      "Latitude": "39.838171"
+    },
+    {
+      "parkingid": "a427fa65e40146c9b2971cc99a63aad1",
+      "ParkingName": "首开.常青藤C区东北角路侧DB",
+      "ParkingAddress": "北京市朝阳区东坝镇东坝中街15号院首开·常青藤C区",
+      "Longitude": "116.534269",
+      "Latitude": "39.965402"
+    },
+    {
+      "parkingid": "a4880c17-b2a8-4dc4-a9e8-80044ffa70f5",
+      "ParkingName": "物美大卖场（志新店）地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区学院路街道志新村小区万和大厦",
+      "Longitude": "116.367782",
+      "Latitude": "39.993606"
+    },
+    {
+      "parkingid": "a58a725d-aebf-44a3-96cd-e9bf82f43f2d",
+      "ParkingName": "宋庄小堡文化广场内TZ",
+      "ParkingAddress": "北京市通州区宋庄镇小堡南街小堡文化广场",
+      "Longitude": "116.722321",
+      "Latitude": "39.948969"
+    },
+    {
+      "parkingid": "a63d5144-16b1-461e-a482-77533bb7fe6d",
+      "ParkingName": "朝阳区京旺家园七区东侧路侧停车位（请停车入位）DB",
+      "ParkingAddress": "北京市朝阳区崔各庄镇首都机场辅路170号京旺家园7区",
+      "Longitude": "116.530281",
+      "Latitude": "40.015052"
+    },
+    {
+      "parkingid": "a74900de8b1f46bcbc7d7163ff4df118",
+      "ParkingName": "黄渠东路道路两侧停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营民族家园苹果派",
+      "Longitude": "116.576756",
+      "Latitude": "39.930393"
+    },
+    {
+      "parkingid": "a8694c9051e84cfa97652935e45e6045",
+      "ParkingName": "复兴里小区西侧台阶上停车场（请规范停车）TZ",
+      "ParkingAddress": "北京市通州区北苑街道玉带河西街13号复兴里小区",
+      "Longitude": "116.64425",
+      "Latitude": "39.900449"
+    },
+    {
+      "parkingid": "a99fbe3d-6f74-46a8-8dcf-3475fa3e2ec9",
+      "ParkingName": "紫金丽亭酒店地面停车场XZ",
+      "ParkingAddress": "北京市海淀区万寿路街道西翠路17-10号楼紫金长安",
+      "Longitude": "116.282444",
+      "Latitude": "39.915799"
+    },
+    {
+      "parkingid": "a9d9f31f71db40689630ed36777ff0ce",
+      "ParkingName": "望京花园东区北门路侧WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道利泽中街望京花园东区",
+      "Longitude": "116.475751",
+      "Latitude": "40.008704"
+    },
+    {
+      "parkingid": "a9fa4467-c1c1-4257-9f4d-895c14845693",
+      "ParkingName": "八王坟客运站门口地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区南磨房镇西大望路八王坟长途客运站门口 停车场",
+      "Longitude": "116.477999",
+      "Latitude": "39.902861"
+    },
+    {
+      "parkingid": "a9fdcd59756c4591aa9ceb1ce2a5412d",
+      "ParkingName": "京棉新城北区南侧占道车位（请勿阻挡通道！）HD",
+      "ParkingAddress": "北京市朝阳区八里庄街道八里庄第二社区卫生服务中心中泰雅轩",
+      "Longitude": "116.504031",
+      "Latitude": "39.918377"
+    },
+    {
+      "parkingid": "aa65b110d48a42dfa8208679d0a8d8f5",
+      "ParkingName": "苏宁易购立水桥店（辅路路侧）TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇安立路",
+      "Longitude": "116.411771",
+      "Latitude": "40.044271"
+    },
+    {
+      "parkingid": "abdcdd86-25aa-4f29-bc15-c10221205ba0",
+      "ParkingName": "嘉园二里小区北门路侧停车场NZ（请停车入位）",
+      "ParkingAddress": "北京市丰台区马家堡街道角门北路嘉福苑",
+      "Longitude": "116.36975",
+      "Latitude": "39.850749"
+    },
+    {
+      "parkingid": "acee91be869a4e7e93a7b7d18a5ae6ac",
+      "ParkingName": "东坝家园A区西侧道路两侧停车位（规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇单店中路东坝家园A区",
+      "Longitude": "116.539595",
+      "Latitude": "39.968317"
+    },
+    {
+      "parkingid": "ae8ebfd700aa426aa3687f0f16740642",
+      "ParkingName": "北京大学人民医院(清河分院)-活动用车场地",
+      "ParkingAddress": "北京市海淀区西三旗街道北京大学人民医院清河分院住院部B北京大学人民医院(清河分院)",
+      "Longitude": "116.3442",
+      "Latitude": "40.036497"
+    },
+    {
+      "parkingid": "af7ee858-6a6d-4745-9fb3-285720f0dbb9",
+      "ParkingName": "中国国际科技会展中心地面停车场JDQ",
+      "ParkingAddress": "北京市朝阳区安贞街道裕民路12-2号楼中国国际科技会展中心",
+      "Longitude": "116.381749",
+      "Latitude": "39.974193"
+    },
+    {
+      "parkingid": "b07bc697-9f82-49c9-a17f-50bb697d058a",
+      "ParkingName": "石榴园公交站路西地面停车场",
+      "ParkingAddress": "北京市丰台区大红门街道慧时欣园",
+      "Longitude": "116.414496",
+      "Latitude": "39.846706"
+    },
+    {
+      "parkingid": "b1a7412980ce49c498523ed6471fd40f",
+      "ParkingName": "腾讯众创中心辅路停车位HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道龙跃苑二区北京市昌平区回龙观镇人民政府",
+      "Longitude": "116.347516",
+      "Latitude": "40.080278"
+    },
+    {
+      "parkingid": "b2bd567ac7f64cbba8996dac71b70e83",
+      "ParkingName": "万达大湖公馆西南门路侧TTY",
+      "ParkingAddress": "北京市朝阳区奥运村街道清林东路万达大湖公馆",
+      "Longitude": "116.405404",
+      "Latitude": "40.036722"
+    },
+    {
+      "parkingid": "b35af224-0a88-4086-b085-06f87382b040",
+      "ParkingName": "京客隆龙旺庄店门口停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇芙蓉东路12号龙旺庄村公园",
+      "Longitude": "116.68588",
+      "Latitude": "39.927316"
+    },
+    {
+      "parkingid": "b35e9a2bc5d440dc97a59b62981784de",
+      "ParkingName": "大红门地铁站A2口停车场NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道临泓路临泓路6号院",
+      "Longitude": "116.398394",
+      "Latitude": "39.845477"
+    },
+    {
+      "parkingid": "b4c26b3bee85410e997067d26e255c8d",
+      "ParkingName": "望京北路路侧停车位1号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道望京北路叶青大厦",
+      "Longitude": "116.468658",
+      "Latitude": "40.011445"
+    },
+    {
+      "parkingid": "b5312a98-ef9e-4e92-ba48-2987aec60507",
+      "ParkingName": "雅宝城国际大厦地面停车场（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区朝外街道日坛北路甲19号日坛公园",
+      "Longitude": "116.441397",
+      "Latitude": "39.917895"
+    },
+    {
+      "parkingid": "b5af6372-98d7-44da-b21a-caecb6d9e9d8",
+      "ParkingName": "金隅国际B座地面停车场WJ",
+      "ParkingAddress": "北京市朝阳区望京街道金隅国际",
+      "Longitude": "116.457889",
+      "Latitude": "39.985522"
+    },
+    {
+      "parkingid": "b5de482c-f723-4f0c-aa2b-0fb6f7256863",
+      "ParkingName": "武夷花园牡丹园西二门底商停车场TZ",
+      "ParkingAddress": "北京市通州区潞城镇牡丹园武夷花园-牡丹雅园",
+      "Longitude": "116.697375",
+      "Latitude": "39.917494"
+    },
+    {
+      "parkingid": "b76f1ddcb73449ccabd8dc8c626aa351",
+      "ParkingName": "次渠南里129号楼东侧停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇次渠南里128号楼敬园小区",
+      "Longitude": "116.575157",
+      "Latitude": "39.802017"
+    },
+    {
+      "parkingid": "b8760dba-cc77-4ee5-b342-df76071d1b24",
+      "ParkingName": "双惠苑五号院地面停车场（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇双惠苑南区",
+      "Longitude": "116.574451",
+      "Latitude": "39.904459"
+    },
+    {
+      "parkingid": "b930838100254219b5f38f3773e2c96b",
+      "ParkingName": "芳园里北区东南侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道芳园里(将台路)芳园里北区",
+      "Longitude": "116.489364",
+      "Latitude": "39.973134"
+    },
+    {
+      "parkingid": "b9374031-2908-444a-b5bf-5184500d8c4e",
+      "ParkingName": "西荣阁酒店地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区八里庄街道西荣阁B座西荣阁酒店",
+      "Longitude": "116.280136",
+      "Latitude": "39.940818"
+    },
+    {
+      "parkingid": "ba896f984a69415cabee2e6e81af6c74",
+      "ParkingName": "姚家园东里八号院北侧道路两侧停车位HD",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园北二路姚家园东里8号院",
+      "Longitude": "116.518299",
+      "Latitude": "39.949737"
+    },
+    {
+      "parkingid": "bad3bc01-6c57-482c-868e-b1f25d06d5a9",
+      "ParkingName": "北沙滩地铁A口地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区学院路街道清华东路3号",
+      "Longitude": "116.366556",
+      "Latitude": "40.001812"
+    },
+    {
+      "parkingid": "bb94c09a-5b2a-4133-a4da-58355e1c66a1",
+      "ParkingName": "金水银泉洗浴门前停车场（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区管庄镇广渠东路",
+      "Longitude": "116.609236",
+      "Latitude": "39.891334"
+    },
+    {
+      "parkingid": "bbdb295205604aab90c25d8237a5ca3c",
+      "ParkingName": "碧海公园北侧充电桩停车位（规范停车）",
+      "ParkingAddress": "北京市大兴区旧宫镇国家电网汽车充电站(旧宫地区办事处西)碧海公园",
+      "Longitude": "116.435169",
+      "Latitude": "39.811875"
+    },
+    {
+      "parkingid": "bc2c6eb1-93e8-4422-8be6-f9c3391116e7",
+      "ParkingName": "当代名筑家园西侧地面停车场TZ",
+      "ParkingAddress": "北京市通州区玉桥街道九棵树东路辅路景欣园",
+      "Longitude": "116.663557",
+      "Latitude": "39.889613"
+    },
+    {
+      "parkingid": "bc4c9649bd9048f1a473a8f61db210d2",
+      "ParkingName": "运河文化广场东北门门前停车位（停车入位）TZ",
+      "ParkingAddress": "北京市通州区永顺镇芙蓉西路",
+      "Longitude": "116.681946",
+      "Latitude": "39.913612"
+    },
+    {
+      "parkingid": "bda39f6a99fd4143ad04f6bc5fa8721e",
+      "ParkingName": "银河湾东侧道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道将台路5号楼高家园社区1区",
+      "Longitude": "116.485996",
+      "Latitude": "39.978227"
+    },
+    {
+      "parkingid": "bfa3ecfb856146e6b4a5ad58d927cb4a",
+      "ParkingName": "林生堂大药房门前底商停车位（规范停车）TZ",
+      "ParkingAddress": "北京市通州区北苑街道旅游新村",
+      "Longitude": "116.642305",
+      "Latitude": "39.901882"
+    },
+    {
+      "parkingid": "bfc4e181-f9d5-412b-a6eb-b756b92d9cdf",
+      "ParkingName": "鹏润国际大酒店门前路侧停车位DZM",
+      "ParkingAddress": "北京市朝阳区霄云路26号",
+      "Longitude": "116.466387",
+      "Latitude": "39.959653"
+    },
+    {
+      "parkingid": "c0761553baf7499199a4e9cbc3aa9eeb",
+      "ParkingName": "金利泰合上汽大通旗舰店南侧河边停车位（请勿阻挡马路！）",
+      "ParkingAddress": "北京市朝阳区小红门镇京特卢公寓",
+      "Longitude": "116.446052",
+      "Latitude": "39.827288"
+    },
+    {
+      "parkingid": "c116a7e6837242ddae6a5ec33fafcfd5",
+      "ParkingName": "绿洲家园北侧路侧停车位（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡大瓦窑中路绿洲家园(大瓦窑西二街)",
+      "Longitude": "116.234998",
+      "Latitude": "39.864992"
+    },
+    {
+      "parkingid": "c11c64f4-1d6c-4b5e-a02a-29393f542e84",
+      "ParkingName": "亮马外交办公大楼LBN-006/LBN-007/LBN-008（宝马）DZM",
+      "ParkingAddress": "北京市朝阳区麦子店街道东方东路40号",
+      "Longitude": "116.464137",
+      "Latitude": "39.950956"
+    },
+    {
+      "parkingid": "c15dab57-52f7-441d-9cbc-fbe33027db93",
+      "ParkingName": "单店中路路测车位（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇单店中路北京奥林匹克花园二期南区",
+      "Longitude": "116.539653",
+      "Latitude": "39.962472"
+    },
+    {
+      "parkingid": "c175a91240494d62ae22b3af040cf00a",
+      "ParkingName": "望京广顺北大街路侧车位1号站（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道广顺北大街34号星源公寓",
+      "Longitude": "116.468009",
+      "Latitude": "40.002499"
+    },
+    {
+      "parkingid": "c178bed9-8a50-4260-903e-b386638f475f",
+      "ParkingName": "金台路地铁口B路西侧路侧停车位DZM",
+      "ParkingAddress": "北京市朝阳区六里屯街道朝阳北路181号北京华德眼科医院",
+      "Longitude": "116.478249",
+      "Latitude": "39.923295"
+    },
+    {
+      "parkingid": "c18441f60b2f41e3a79f98149bdadab1",
+      "ParkingName": "丽都水岸南区西侧道路两侧停车位（停车入位)JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇丽都水岸B区丽都水岸A区",
+      "Longitude": "116.485254",
+      "Latitude": "39.969309"
+    },
+    {
+      "parkingid": "c2d96abf-c1dc-4a53-98b4-81cac2baf61e",
+      "ParkingName": "上地科贸大厦地面停车场SD",
+      "ParkingAddress": "北京市海淀区上地街道科贸大厦(信息路)上地东里",
+      "Longitude": "116.3133",
+      "Latitude": "40.029845"
+    },
+    {
+      "parkingid": "c3246f11-711e-4a11-88f0-9d8c758ec053",
+      "ParkingName": "睿士主题酒店（西客站店）地面停车场XZ",
+      "ParkingAddress": "北京市丰台区太平桥街道中国建设银行(北京太平桥支行)威尔夏大道",
+      "Longitude": "116.320548",
+      "Latitude": "39.880364"
+    },
+    {
+      "parkingid": "c3e4b12c-4c47-4415-aaa1-31ad711141e5",
+      "ParkingName": "新龙城三期北门地上停车场（华联超市对面）HLG",
+      "ParkingAddress": "北京市昌平区回龙观街道新龙城(南区)新龙城3期",
+      "Longitude": "116.333936",
+      "Latitude": "40.068135"
+    },
+    {
+      "parkingid": "c4e4e55c-a59b-4f2e-9070-1ab572c2f677",
+      "ParkingName": "红星美凯龙（北五环店）地面停车场TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇GT智能家居体验馆红星美凯龙环球家居设计博览中心",
+      "Longitude": "116.440598",
+      "Latitude": "40.025356"
+    },
+    {
+      "parkingid": "c52b8ef66b424f749acb5c83117d6243",
+      "ParkingName": "华联超市东侧停车场（规范停车）",
+      "ParkingAddress": "北京市朝阳区将台镇将台西路37号楼汉庭酒店(北京燕莎霄云桥店)",
+      "Longitude": "116.483496",
+      "Latitude": "39.970863"
+    },
+    {
+      "parkingid": "c5316464-3817-4e0c-80cd-1f19990b3749",
+      "ParkingName": "太平洋财产保险丰台支公司地面停车场XZ",
+      "ParkingAddress": "北京市西城区广安门外街道广源小区(东区)广源小区东区",
+      "Longitude": "116.345235",
+      "Latitude": "39.890049"
+    },
+    {
+      "parkingid": "c60c88a6d022424e85804954ceede0b6",
+      "ParkingName": "速8酒店（北京潘家园古玩城店）停车场SJ",
+      "ParkingAddress": "北京市朝阳区十八里店镇华威南路32号弘善家园C区",
+      "Longitude": "116.451646",
+      "Latitude": "39.871195"
+    },
+    {
+      "parkingid": "c85f0dd9ec2c41e290cf861c931a31a8",
+      "ParkingName": "酒仙桥路辅路停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道酒仙桥路七街坊",
+      "Longitude": "116.492817",
+      "Latitude": "39.964384"
+    },
+    {
+      "parkingid": "c92ee6701daf4e6a8a526cba17b28e31",
+      "ParkingName": "城外诚商务会所北侧停车位（规范停车）",
+      "ParkingAddress": "北京市朝阳区小红门镇横街子路鸿博公园",
+      "Longitude": "116.484833",
+      "Latitude": "39.819689"
+    },
+    {
+      "parkingid": "ca9edd527d514c30a181fae8ef191871",
+      "ParkingName": "方园西路辅路停车位（请规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区将台镇将台西路9-12号北京市朝阳区四得公园",
+      "Longitude": "116.478117",
+      "Latitude": "39.970794"
+    },
+    {
+      "parkingid": "caa6536ce8f84d7d90b81c84b58f5af9",
+      "ParkingName": "红霞中路道路两侧停车位（规范停车）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道酒仙桥路七街坊",
+      "Longitude": "116.49079",
+      "Latitude": "39.963145"
+    },
+    {
+      "parkingid": "caa83c22-cf04-44f5-a03b-1f1185b3ea89",
+      "ParkingName": "物美大卖场（新华联家园店）停车场TZ",
+      "ParkingAddress": "北京市通州区北苑街道通朝大街221号物美大卖场(通州新华联家园店)",
+      "Longitude": "116.641055",
+      "Latitude": "39.892676"
+    },
+    {
+      "parkingid": "cbbb5d29-bbc2-4a14-bedb-6b3e17a15f74",
+      "ParkingName": "北京时代网络大厦地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区海淀街道7-ELEVEN(海淀南路店)时代网络大厦",
+      "Longitude": "116.310633",
+      "Latitude": "39.976762"
+    },
+    {
+      "parkingid": "ccaa45e7-4e3c-4aeb-9878-fee228d2767f",
+      "ParkingName": "建设银行（汇鸿家园支行）门前停车位CY",
+      "ParkingAddress": "北京市朝阳区常营镇中国建设银行(北京汇鸿家园支行)新东苇路市场",
+      "Longitude": "116.590591",
+      "Latitude": "39.918756"
+    },
+    {
+      "parkingid": "cd5bb6bd-6ff4-4dba-85bf-22d77bd00ea1",
+      "ParkingName": "果多美（八里庄店）地面停车场HD",
+      "ParkingAddress": "北京市朝阳区八里庄街道很久以前羊肉串(朝阳店)如家快捷酒店(北京朝阳路十里堡华堂店)",
+      "Longitude": "116.499279",
+      "Latitude": "39.915514"
+    },
+    {
+      "parkingid": "cd91f536-0abc-4616-a6c3-976c2b02aec7",
+      "ParkingName": "东亚逸品阁门口两侧停车场TZ",
+      "ParkingAddress": "北京市通州区永顺镇潞苑五街通瑞嘉苑",
+      "Longitude": "116.689175",
+      "Latitude": "39.934461"
+    },
+    {
+      "parkingid": "ce0a04e7-8cd9-4dd0-921a-b1935b4cd447",
+      "ParkingName": "王府井百货大楼北侧（菜场胡同）地面停车位（宝马）DZM",
+      "ParkingAddress": "北京市东城区东华门街道菜厂胡同10号",
+      "Longitude": "116.409841",
+      "Latitude": "39.914371"
+    },
+    {
+      "parkingid": "ce8f33dd-f8a1-4184-9f68-51ffe913a63c",
+      "ParkingName": "北京现代音乐研修学院南（小稿村小区北门商铺前停车场）TZ",
+      "ParkingAddress": "北京市通州区梨园镇小稿村小稿村东区",
+      "Longitude": "116.650043",
+      "Latitude": "39.873277"
+    },
+    {
+      "parkingid": "cfa44c45770b41f299ce4fa764175526",
+      "ParkingName": "首汽大厦楼下技术测试专用停车位",
+      "ParkingAddress": "北京市朝阳区麦子店街道农展馆北路甲5-1号海悦名门国际公寓",
+      "Longitude": "116.469327",
+      "Latitude": "39.944407"
+    },
+    {
+      "parkingid": "d146c8c9-a22b-47e3-9497-1c19a2da3c8b",
+      "ParkingName": "西二旗地铁站西侧停车场SD",
+      "ParkingAddress": "北京市海淀区西二旗地铁西侧停车场",
+      "Longitude": "116.304965",
+      "Latitude": "40.053122"
+    },
+    {
+      "parkingid": "d149c5987fcb4ae1b23f8dcef2215801",
+      "ParkingName": "悦水街道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇塔营北街1号远洋一方北润园",
+      "Longitude": "116.596236",
+      "Latitude": "39.904165"
+    },
+    {
+      "parkingid": "d1cd983844aa4bb5a921b5d5d83a2b6f",
+      "ParkingName": "民族家园东路道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇民族家园东路优点社区",
+      "Longitude": "116.587253",
+      "Latitude": "39.930436"
+    },
+    {
+      "parkingid": "d3151eedf6d3404ea4f84eca72b26fbe",
+      "ParkingName": "常营南路道路两侧停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营南路北京市新教育实验学校",
+      "Longitude": "116.616661",
+      "Latitude": "39.922166"
+    },
+    {
+      "parkingid": "d343fcb98ec6453f93fd64b98957a6e7",
+      "ParkingName": "平房村东4门停车场",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园路160号",
+      "Longitude": "116.541375",
+      "Latitude": "39.9385"
+    },
+    {
+      "parkingid": "d366be56887a4c688dac61570b4149d5",
+      "ParkingName": "天赐良园东区南侧地面停车场（规范停车）TZ",
+      "ParkingAddress": "北京市通州区永顺镇物资学院路天赐良园东区",
+      "Longitude": "116.640625",
+      "Latitude": "39.924555"
+    },
+    {
+      "parkingid": "d3a04321-1114-44c2-b6c1-76e21e4c6e28",
+      "ParkingName": "港澳中心地面停车场汽车充电桩位置（宝马）DZM",
+      "ParkingAddress": "北京市东城区东直门街道东中街65号北京港澳中心瑞士酒店",
+      "Longitude": "116.436281",
+      "Latitude": "39.932728"
+    },
+    {
+      "parkingid": "d3dbe4f6821c4f948c7e0f273aeea3c6",
+      "ParkingName": "天鹅湾南区西侧路侧停车位HD",
+      "ParkingAddress": "北京市朝阳区平房镇甘露园中街北京友联威科汽车销售服务有限公司",
+      "Longitude": "116.520815",
+      "Latitude": "39.920289"
+    },
+    {
+      "parkingid": "d4a3ebfd-e9dc-4862-8c27-d389ff586cad",
+      "ParkingName": "新华科技大厦地面停车场（宝马）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道驼房营南路酒仙桥南路4号院",
+      "Longitude": "116.503186",
+      "Latitude": "39.963576"
+    },
+    {
+      "parkingid": "d5955495a4724768a694c52e66ae6578",
+      "ParkingName": "望京宏泰西街路侧停车位（请停车入位）WJ",
+      "ParkingAddress": "北京市朝阳区望京街道宏泰西街慧谷时空",
+      "Longitude": "116.472226",
+      "Latitude": "40.001937"
+    },
+    {
+      "parkingid": "d5d883fd54ff4536af8de3cdff447706",
+      "ParkingName": "普乐门公寓门前路侧停车位（请规范停车！）HD",
+      "ParkingAddress": "北京市朝阳区平房镇普乐门公寓(青年路店)银谷·美泉",
+      "Longitude": "116.524378",
+      "Latitude": "39.936939"
+    },
+    {
+      "parkingid": "d702e0825f204c129e803c9f0bfd69ea",
+      "ParkingName": "民族家园西一路道路两侧划线停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营民族家园常营民族家园B区",
+      "Longitude": "116.579554",
+      "Latitude": "39.930285"
+    },
+    {
+      "parkingid": "d713c6b8-afc0-4137-b707-37f079d6c817",
+      "ParkingName": "常吉路道路两侧停车位（请停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇万象新天家园225号楼万象新天2区",
+      "Longitude": "116.595395",
+      "Latitude": "39.929915"
+    },
+    {
+      "parkingid": "d84dce22-f2d1-4343-8994-3cdc8c9ab7dd",
+      "ParkingName": "梆子井公寓西侧地面停车场（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇中国传媒大学学生公寓1号楼中国传媒大学梆子井公寓",
+      "Longitude": "116.554534",
+      "Latitude": "39.907548"
+    },
+    {
+      "parkingid": "d876bfa0-ec52-4c2e-861d-ec0a4a2100d2",
+      "ParkingName": "玉桥东里路侧停车位TZ",
+      "ParkingAddress": "北京市通州区玉桥街道乔庄南路",
+      "Longitude": "116.69319",
+      "Latitude": "39.887973"
+    },
+    {
+      "parkingid": "d8c9008b23de4864afb728232ee4f0e4",
+      "ParkingName": "新月家园西侧路侧停车位（停车入位）XZ",
+      "ParkingAddress": "北京市丰台区宛平城镇晓月中路新月家园",
+      "Longitude": "116.233957",
+      "Latitude": "39.845784"
+    },
+    {
+      "parkingid": "d8cb8bff57aa47149d75b1be744d8b85",
+      "ParkingName": "望京西路与南湖中园二条路侧WJ",
+      "ParkingAddress": "北京市朝阳区望京街道南湖中园二条花家地西里1区",
+      "Longitude": "116.457046",
+      "Latitude": "39.98888"
+    },
+    {
+      "parkingid": "d928a850-9a77-47cd-9aec-4bc6d0f8d6e7",
+      "ParkingName": "海通梧桐苑西南角锐健身游泳地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园镇海通·梧桐苑中泽家园",
+      "Longitude": "116.641406",
+      "Latitude": "39.875352"
+    },
+    {
+      "parkingid": "d9c289b6dea04712826a307736f5c7f3",
+      "ParkingName": "果园地铁站地面B口停车场（规范停车）TZ",
+      "ParkingAddress": "北京市通州区永顺镇通朝大街85号人口文化园",
+      "Longitude": "116.646806",
+      "Latitude": "39.893039"
+    },
+    {
+      "parkingid": "d9e6a32e6089416d86d3b0a9b2fb4bd4",
+      "ParkingName": "定福家园北里南侧道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区平房镇朝阳北路274号定福家园北里",
+      "Longitude": "116.565332",
+      "Latitude": "39.925019"
+    },
+    {
+      "parkingid": "d9fd5528-12e6-4ee3-ac5e-d031abd7ac5f",
+      "ParkingName": "第三区街道路边停车场XZ",
+      "ParkingAddress": "北京市西城区广安门外街道茶马南街第三区",
+      "Longitude": "116.329206",
+      "Latitude": "39.878214"
+    },
+    {
+      "parkingid": "da6704fc688a47f2894e55059dd4ac27",
+      "ParkingName": "望京南地铁站C出口南侧停车位（规范停车）WJ",
+      "ParkingAddress": "北京市朝阳区望京街道京密路中国社会科学院研究生院望京校区",
+      "Longitude": "116.48021",
+      "Latitude": "39.982941"
+    },
+    {
+      "parkingid": "dac07352-d2d9-4cf3-a3c7-c58a01c9a8af",
+      "ParkingName": "晋阳饭庄（马西路店）门前停车场NZ",
+      "ParkingAddress": "北京市丰台区南苑乡城南嘉园益嘉园",
+      "Longitude": "116.371313",
+      "Latitude": "39.832881"
+    },
+    {
+      "parkingid": "dbf9b4e0-bba9-4de9-be43-9260176e9ec8",
+      "ParkingName": "大马庄综合门诊部门前停车位（停车规范）TZ",
+      "ParkingAddress": "北京市通州区梨园镇大马庄大马庄新园",
+      "Longitude": "116.660988",
+      "Latitude": "39.864182"
+    },
+    {
+      "parkingid": "dc1cce86-0569-4da6-93cc-63163b4a5034",
+      "ParkingName": "望京西路北向南望京桥北公交站西侧辅路车位（请规范停车）",
+      "ParkingAddress": "北京市朝阳区望京街道望京西路",
+      "Longitude": "116.456662",
+      "Latitude": "39.98336"
+    },
+    {
+      "parkingid": "dc7ed5c0-f2b7-4290-8ec1-3eabf0a2926c",
+      "ParkingName": "中关村南大街靠近天作国际路侧停车场ZGC",
+      "ParkingAddress": "北京市海淀区北下关街道中关村南大街",
+      "Longitude": "116.322743",
+      "Latitude": "39.962167"
+    },
+    {
+      "parkingid": "dca4ec25-41bd-429c-bf42-0641550d1ee2",
+      "ParkingName": "融泽西街坊地面停车场HLG",
+      "ParkingAddress": "北京市昌平区回龙观街道龙域北街北京六幼回龙观幼儿园",
+      "Longitude": "116.305496",
+      "Latitude": "40.066219"
+    },
+    {
+      "parkingid": "dd3a4dcb-e115-4353-95bd-dd04e04bd1e0",
+      "ParkingName": "燕山大酒店B座地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区中关村街道燕山大酒店公寓燕山大酒店",
+      "Longitude": "116.322806",
+      "Latitude": "39.969985"
+    },
+    {
+      "parkingid": "dd6d7c42-ae31-45b2-a348-779efc320f5e",
+      "ParkingName": "蓝调庄园酒店门口两侧停车位（请停车入位）",
+      "ParkingAddress": "北京市朝阳区金盏镇蓝调薰衣草庄园蓝调庄园",
+      "Longitude": "116.606586",
+      "Latitude": "39.96545"
+    },
+    {
+      "parkingid": "dd6e61bf-a10b-433b-8d44-1f70596fab42",
+      "ParkingName": "通州临河里地铁站B出口地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园镇临河里站停车场",
+      "Longitude": "116.678013",
+      "Latitude": "39.875831"
+    },
+    {
+      "parkingid": "de301e7659d543fb8f99a065818e08d5",
+      "ParkingName": "绿洲家园南侧路侧停车位（规范停车）XZ",
+      "ParkingAddress": "北京市丰台区卢沟桥乡大瓦窑中路京点联创大厦",
+      "Longitude": "116.235207",
+      "Latitude": "39.86295"
+    },
+    {
+      "parkingid": "df735e60b7dc40e5af24364e0c52cb06",
+      "ParkingName": "联想大厦西侧路侧车位SD",
+      "ParkingAddress": "北京市海淀区上地街道上地六街联想大厦",
+      "Longitude": "116.308974",
+      "Latitude": "40.04279"
+    },
+    {
+      "parkingid": "dfb102d3601a4c85940ab7c70b9dbcd6",
+      "ParkingName": "定福家园南里2号院西侧道路两侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区平房镇朝阳北路42号定福家园南里3号院",
+      "Longitude": "116.567134",
+      "Latitude": "39.923335"
+    },
+    {
+      "parkingid": "e08f25162ff543fdbe2457755b507087",
+      "ParkingName": "鸿华家园对面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道拥军路北京鸿华国际高尔夫球会",
+      "Longitude": "116.423232",
+      "Latitude": "40.015138"
+    },
+    {
+      "parkingid": "e0ae24b9-5966-4e0e-9e35-483a3a60bca2",
+      "ParkingName": "北京市精诚公证处门口地面停车场NZ",
+      "ParkingAddress": "北京市西城区陶然亭街道浙商证券(骡马市大街证券营业部)北京和谐美丽汇医疗美容",
+      "Longitude": "116.382039",
+      "Latitude": "39.889068"
+    },
+    {
+      "parkingid": "e10c94aed4b541e6a6b9ec4e78bae4bb",
+      "ParkingName": "姚家园东里七号院东侧道路两侧停车位HD",
+      "ParkingAddress": "北京市朝阳区平房镇姚家园北一路808a座权金城金沙国际酒店(朝阳店)(装修中)",
+      "Longitude": "116.519888",
+      "Latitude": "39.946215"
+    },
+    {
+      "parkingid": "e122c9e910a34576911a50e1eb09c7d4",
+      "ParkingName": "杭州银行门前底商停车位（请勿挡门口）",
+      "ParkingAddress": "北京市通州区台湖镇杭州银行(北京次渠支行)次渠南里7区",
+      "Longitude": "116.575658",
+      "Latitude": "39.800023"
+    },
+    {
+      "parkingid": "e1348c2f11b44ca78a7bb76606c38b63",
+      "ParkingName": "晓月八里东侧道路两侧停车位（停车入位）",
+      "ParkingAddress": "北京市丰台区宛平城镇晓月中路晓月八里",
+      "Longitude": "116.246929",
+      "Latitude": "39.833427"
+    },
+    {
+      "parkingid": "e1d084d1-b357-4861-8361-0a95975cf79e",
+      "ParkingName": "丽京花园别墅西北门路侧停车位（西侧）DB",
+      "ParkingAddress": "北京市顺义区空港街道丽京花园别墅2、3区丽京花园别墅",
+      "Longitude": "116.568184",
+      "Latitude": "40.042329"
+    },
+    {
+      "parkingid": "e2d791c8-08e2-487d-8e38-3bab41127d45",
+      "ParkingName": "美廉美（增光路店）地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区甘家口街道七比特国际英语(增光路)增光路40号院",
+      "Longitude": "116.322606",
+      "Latitude": "39.928204"
+    },
+    {
+      "parkingid": "e3593717-e178-4d84-a663-86a80633e77d",
+      "ParkingName": "通州梨园地铁站B出口地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园地铁站B出口停车场",
+      "Longitude": "116.668597",
+      "Latitude": "39.883604"
+    },
+    {
+      "parkingid": "e38d95f8364a4bc7bc712514fde6e4a2",
+      "ParkingName": "塔营北街3号院南侧道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇塔营北街",
+      "Longitude": "116.592524",
+      "Latitude": "39.902303"
+    },
+    {
+      "parkingid": "e3974431-c21b-437f-9c3e-baf2beaffd13",
+      "ParkingName": "莱锦文化创意产业园地面停车场HD",
+      "ParkingAddress": "北京市朝阳区八里庄街道朝阳路辅路",
+      "Longitude": "116.497214",
+      "Latitude": "39.915477"
+    },
+    {
+      "parkingid": "e3a69dd7-edbf-4f54-a085-09efa78d2e3d",
+      "ParkingName": "酒仙桥乐天玛特地面停车场（宝马）JXQ",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道酒仙桥中路12号乐天玛特(酒仙桥店)",
+      "Longitude": "116.491596",
+      "Latitude": "39.975787"
+    },
+    {
+      "parkingid": "e413b364677d4196b5646a9b7fa40e61",
+      "ParkingName": "三间房家属院西侧路侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇三间房东路11号北京外运三间房家属院",
+      "Longitude": "116.577292",
+      "Latitude": "39.919263"
+    },
+    {
+      "parkingid": "e42ce241-f884-45f6-aadc-2a3ac8652be2",
+      "ParkingName": "旗舰凯旋北侧停车位TZ",
+      "ParkingAddress": "北京市通州区梨园镇旗舰凯旋",
+      "Longitude": "116.646053",
+      "Latitude": "39.878449"
+    },
+    {
+      "parkingid": "e49243b6-336b-48e0-ac5c-22c94e04531a",
+      "ParkingName": "中油首汽六号加油站便利店专用停车位DZM",
+      "ParkingAddress": "北京市朝阳区左家庄街道中油首汽六号加油站中国石油首汽加油站",
+      "Longitude": "116.454",
+      "Latitude": "39.948857"
+    },
+    {
+      "parkingid": "e4964da562e442a7b837387c94b7be1f",
+      "ParkingName": "宽板凳火锅门前及左侧停车位（请勿挡底商门口）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇老诚一锅(双桥店)康惠园3号院",
+      "Longitude": "116.578246",
+      "Latitude": "39.906651"
+    },
+    {
+      "parkingid": "e4c2bce8-e2a1-4c74-a90e-a4beddee1f18",
+      "ParkingName": "创客工场（通州张采路西侧辅路路侧车位）TZ",
+      "ParkingAddress": "北京市通州区张家湾镇张采路中国石化运达加油站(群芳南街)(装修中)",
+      "Longitude": "116.696431",
+      "Latitude": "39.86522"
+    },
+    {
+      "parkingid": "e4d471ce-a850-4d22-8567-e5c94a399796",
+      "ParkingName": "第五大道地面停车场DT",
+      "ParkingAddress": "北京市朝阳区大屯街道天创世缘",
+      "Longitude": "116.407513",
+      "Latitude": "40.003539"
+    },
+    {
+      "parkingid": "e4f2cdc5-0b8f-4f3f-a2d3-dd344c8bd372",
+      "ParkingName": "金驹家园F区路侧（请规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇快乐宝贝儿童教育",
+      "Longitude": "116.56655",
+      "Latitude": "39.958468"
+    },
+    {
+      "parkingid": "e6617334941148188c8dc4f6b0f7ddd6",
+      "ParkingName": "苏宁易购望京店WJ",
+      "ParkingAddress": "北京市朝阳区东湖街道广顺北大街望京花园西区",
+      "Longitude": "116.46791",
+      "Latitude": "40.006118"
+    },
+    {
+      "parkingid": "e66cb0c4-85ad-4a57-aa06-700c465be9a9",
+      "ParkingName": "亦庄小康家园北门两侧底商前停车场",
+      "ParkingAddress": "北京市大兴区亦庄镇东渠路小康家园北门",
+      "Longitude": "116.521311",
+      "Latitude": "39.822106"
+    },
+    {
+      "parkingid": "e72805f0-841c-4c1e-bab0-cc17fd73c5df",
+      "ParkingName": "骏马国际酒店地面停车场ZGC",
+      "ParkingAddress": "北京市海淀区中关村街道骏马国际酒店",
+      "Longitude": "116.332645",
+      "Latitude": "39.980566"
+    },
+    {
+      "parkingid": "e7d31e62-2d6e-4d8c-91df-840d7663725d",
+      "ParkingName": "嘉德公寓地面停车场XZ",
+      "ParkingAddress": "北京市海淀区万寿路街道苏宁电器(复兴路店)嘉德公寓",
+      "Longitude": "116.260818",
+      "Latitude": "39.906829"
+    },
+    {
+      "parkingid": "e80a6a12-fd2d-4a6c-b641-3d6d9b1d28a6",
+      "ParkingName": "尚东庭南门两侧停车位（禁止压盲道）TZ",
+      "ParkingAddress": "北京市通州区永顺镇潞苑中路东潞苑东2区",
+      "Longitude": "116.680941",
+      "Latitude": "39.936451"
+    },
+    {
+      "parkingid": "e80f6233-932f-4f74-a799-c183e9f6fb76",
+      "ParkingName": "望京悠乐汇地面停车场（宝马）WJ",
+      "ParkingAddress": "北京市朝阳区望京街道炭画悠乐汇",
+      "Longitude": "116.476129",
+      "Latitude": "39.989433"
+    },
+    {
+      "parkingid": "e83d3563-76ce-4b08-83a4-efbedb9435c4",
+      "ParkingName": "华远·好天地地面停车场TZ",
+      "ParkingAddress": "北京市通州区梨园镇华远·好天地C座华远·好天地",
+      "Longitude": "116.694484",
+      "Latitude": "39.870573"
+    },
+    {
+      "parkingid": "e8863121-a9bd-43f1-b208-72cbf255c22a",
+      "ParkingName": "当代商城南侧工商银行门前车位ZGC",
+      "ParkingAddress": "北京市海淀区中关村街道中关村大街42-3号当代商城",
+      "Longitude": "116.320612",
+      "Latitude": "39.969685"
+    },
+    {
+      "parkingid": "e95da2dd-ee9e-4486-8325-5e15ccc9cca8",
+      "ParkingName": "颐瑞东路TZ",
+      "ParkingAddress": "北京市通州区梨园镇颐瑞东路新城乐居南区",
+      "Longitude": "116.689341",
+      "Latitude": "39.863756"
+    },
+    {
+      "parkingid": "e98c1c8e3cae4c8a991a0403899b2269",
+      "ParkingName": "俏湘园底商停车位（请勿挡底商门口）",
+      "ParkingAddress": "北京市大兴区旧宫镇庑殿路683号庑殿家苑",
+      "Longitude": "116.434389",
+      "Latitude": "39.820591"
+    },
+    {
+      "parkingid": "eaa85a687ae245cdb017a6cd9a8e4c30",
+      "ParkingName": "水利水电学校左侧停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区三间房镇北京水利水电学校",
+      "Longitude": "116.565061",
+      "Latitude": "39.917203"
+    },
+    {
+      "parkingid": "eb7ac6f76bf34e2d84bfd0e97833cd26",
+      "ParkingName": "鑫兆佳园二期东侧底商停车位（规范停车）CY",
+      "ParkingAddress": "北京市朝阳区常营镇管庄路鑫兆佳园",
+      "Longitude": "116.590371",
+      "Latitude": "39.922535"
+    },
+    {
+      "parkingid": "eca13c4c-28c0-4007-9e7c-c95c2147e22e",
+      "ParkingName": "康福瑞酒店(学院南路店)地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区北下关街道学院南路31#号康福瑞酒店(学院南路店)",
+      "Longitude": "116.346424",
+      "Latitude": "39.958697"
+    },
+    {
+      "parkingid": "ecc8839b-d971-4548-83c2-2777b7b90037",
+      "ParkingName": "巴沟地铁站A口旁停车场ZGC",
+      "ParkingAddress": "北京市海淀区海淀街道巴沟地铁站A口旁停车场",
+      "Longitude": "116.292625",
+      "Latitude": "39.974356"
+    },
+    {
+      "parkingid": "ed13328a-6cd4-43e7-9e6c-5fd566d5311c",
+      "ParkingName": "广安门内地铁B出口路侧停车位XZ",
+      "ParkingAddress": "北京市西城区广安门内街道广安门内大街83-1号",
+      "Longitude": "116.359134",
+      "Latitude": "39.889647"
+    },
+    {
+      "parkingid": "ed32138d-786c-40c0-8351-dc86f4344a18",
+      "ParkingName": "上坡家园北侧停车位HLG",
+      "ParkingAddress": "北京市昌平区霍营街道美术动漫点石成金上坡佳园",
+      "Longitude": "116.366901",
+      "Latitude": "40.084139"
+    },
+    {
+      "parkingid": "edd8880f4ee44ca4bc28327415e6475b",
+      "ParkingName": "鸿博家园F区东北角（规范停车）",
+      "ParkingAddress": "北京市朝阳区小红门镇小红门路",
+      "Longitude": "116.456185",
+      "Latitude": "39.827355"
+    },
+    {
+      "parkingid": "eeaa6b6c915a4974aff30268dcca7a13",
+      "ParkingName": "北京丽景湾国际酒店南侧河边占道车位(请规范停车）HD",
+      "ParkingAddress": "北京市朝阳区六里屯街道十里堡路丽景湾国际酒店",
+      "Longitude": "116.502595",
+      "Latitude": "39.920298"
+    },
+    {
+      "parkingid": "ef04f262bf164115873a49bc61518cd2",
+      "ParkingName": "民族家园中路道路两侧停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇常营民族家园常营民族家园(C.D.F区)",
+      "Longitude": "116.582761",
+      "Latitude": "39.93121"
+    },
+    {
+      "parkingid": "ef12fe24c6b54cbaab8e84761a1fa3e3",
+      "ParkingName": "兴丰苑宾馆对面底商停车位NZ（勿挡底商门口）",
+      "ParkingAddress": "北京市丰台区南苑乡团河路兴丰苑宾馆",
+      "Longitude": "116.377953",
+      "Latitude": "39.795852"
+    },
+    {
+      "parkingid": "ef95bd1cd66a41e6bdbcb9c6e04517cc",
+      "ParkingName": "芦月轩地面停车场HLG",
+      "ParkingAddress": "北京市昌平区回龙观街道龙乡小区龙乡小区东区",
+      "Longitude": "116.338476",
+      "Latitude": "40.059014"
+    },
+    {
+      "parkingid": "eff5cafd8d1f4585b932a68f428acbca",
+      "ParkingName": "钰江南足道门前底商停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道中国民生银行(北京南苑支行)福海棠华苑",
+      "Longitude": "116.386704",
+      "Latitude": "39.834219"
+    },
+    {
+      "parkingid": "f0e3fdac-9ee1-403b-b09a-11f6ffcc3b58",
+      "ParkingName": "京填福超市门前停车位（请勿挡底商门前）TZ",
+      "ParkingAddress": "北京市通州区梨园镇群芳四园",
+      "Longitude": "116.661599",
+      "Latitude": "39.865983"
+    },
+    {
+      "parkingid": "f13ac5fd4a99437ea725c1d9f1d74584",
+      "ParkingName": "次渠南地铁站C口停车位（规范停车）",
+      "ParkingAddress": "北京市通州区台湖镇次北路",
+      "Longitude": "116.582168",
+      "Latitude": "39.795144"
+    },
+    {
+      "parkingid": "f1653514866a4a999a80eade80dfffbb",
+      "ParkingName": "塔院村文化体育园地面停车场JDQ",
+      "ParkingAddress": "北京市海淀区学院路街道G6辅路",
+      "Longitude": "116.376554",
+      "Latitude": "39.99126"
+    },
+    {
+      "parkingid": "f181b9ea-f46c-4dff-ba7c-d2be89d29bff",
+      "ParkingName": "中关村科技发展大厦门前路侧车位JDQ",
+      "ParkingAddress": "北京市海淀区北下关街道中关村南大街中央民族大学",
+      "Longitude": "116.324596",
+      "Latitude": "39.948771"
+    },
+    {
+      "parkingid": "f38d5642-7d18-4c79-b932-7e5760f88435",
+      "ParkingName": "白纸坊桥下停车场XZ",
+      "ParkingAddress": "北京市西城区广安门外街道鸭子桥路鸭子桥北里",
+      "Longitude": "116.34897",
+      "Latitude": "39.877696"
+    },
+    {
+      "parkingid": "f3a86848-e914-4254-b738-495db95a49d3",
+      "ParkingName": "北京国门医院西门路侧停车位（请停车入位）DB",
+      "ParkingAddress": "北京市朝阳区崔各庄镇首都机场辅路138号北京东方博爱双语幼儿园",
+      "Longitude": "116.524074",
+      "Latitude": "40.013214"
+    },
+    {
+      "parkingid": "f3e9514c-b3e6-4e89-825f-b55dd06643dd",
+      "ParkingName": "恒川广场地面停车场（宝马）AZ",
+      "ParkingAddress": "北京市朝阳区太阳宫镇北三环东路168号恒川广场",
+      "Longitude": "116.437563",
+      "Latitude": "39.969615"
+    },
+    {
+      "parkingid": "f45c50bd2db64802be123a5cdc186f55",
+      "ParkingName": "青海园西侧道路两侧停车位HD",
+      "ParkingAddress": "北京市朝阳区东风镇姚家园路泛海国际居住区·碧海园",
+      "Longitude": "116.498315",
+      "Latitude": "39.937317"
+    },
+    {
+      "parkingid": "f49374bd8b17469a92737e1620eb34db",
+      "ParkingName": "念友医疗器械门前底商停车位NZ（请勿挡门口）",
+      "ParkingAddress": "北京市丰台区南苑乡团河路南苑春商务酒店(南苑机场店)",
+      "Longitude": "116.378484",
+      "Latitude": "39.789489"
+    },
+    {
+      "parkingid": "f50c74f9b9324f41924cb6c9e86ac3f3",
+      "ParkingName": "塔营西路道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇塔营北街3号院5号楼远洋一方北润园",
+      "Longitude": "116.594388",
+      "Latitude": "39.903869"
+    },
+    {
+      "parkingid": "f5500dd1-b684-40f7-8ea0-e53a84dcadff",
+      "ParkingName": "望都家园1期北门两侧底商前停车场（请停车入位）TTY",
+      "ParkingAddress": "北京市昌平区北七家镇望都家园",
+      "Longitude": "116.416751",
+      "Latitude": "40.116706"
+    },
+    {
+      "parkingid": "f67d629a-7c2a-4201-be6e-49d1f14ab95d",
+      "ParkingName": "西三旗龙乡小区东区路侧停车场HLG",
+      "ParkingAddress": "北京市昌平区回龙观街道太平庄北街",
+      "Longitude": "116.338693",
+      "Latitude": "40.063684"
+    },
+    {
+      "parkingid": "f6d58f8629634ba68f8d32a919a366f3",
+      "ParkingName": "双桥东路道路两侧停车位CY（规范停车）",
+      "ParkingAddress": "北京市朝阳区管庄镇远洋一方花语苑管庄新村C区",
+      "Longitude": "116.601207",
+      "Latitude": "39.903276"
+    },
+    {
+      "parkingid": "f6e0ea3d160243c79536d4281f169d55",
+      "ParkingName": "京客隆（双龙店）门前停车场SJ",
+      "ParkingAddress": "北京市朝阳区南磨房镇双龙路双龙南里小区西区",
+      "Longitude": "116.477573",
+      "Latitude": "39.871063"
+    },
+    {
+      "parkingid": "f71efcde-4e72-4570-89c8-8b5951125b0b",
+      "ParkingName": "新金海国际南区西侧地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区南磨房镇中国希乐教育集团有限公司金海国际-南区",
+      "Longitude": "116.49079",
+      "Latitude": "39.894935"
+    },
+    {
+      "parkingid": "f768b3cc61f1473f8d7865ff85e3c4ce",
+      "ParkingName": "沁园东侧道路两侧停车位（停车入位）CY",
+      "ParkingAddress": "北京市朝阳区常营镇东十里堡路沁园",
+      "Longitude": "116.604908",
+      "Latitude": "39.919347"
+    },
+    {
+      "parkingid": "f7c116fa-f191-4125-9b4d-5d9b6c854b85",
+      "ParkingName": "国风美唐地面停车场HLG",
+      "ParkingAddress": "北京市昌平区龙泽园街道科星西路106号院",
+      "Longitude": "116.359892",
+      "Latitude": "40.073357"
+    },
+    {
+      "parkingid": "f811d35acf774521828d127955dad981",
+      "ParkingName": "望京阜通西大街东向西辅路南湖公园西北门至花家地南街北口路段（请规范停车）",
+      "ParkingAddress": "北京市朝阳区望京街道阜通西大街花家地西里2区",
+      "Longitude": "116.459732",
+      "Latitude": "39.985077"
+    },
+    {
+      "parkingid": "f89c9ddb4c6b4157b0b48ea282b36f7c",
+      "ParkingName": "北京农商银行（王四营支行）门前停车场SJ",
+      "ParkingAddress": "北京市朝阳区王四营镇化工路北京农商银行(王四营支行)",
+      "Longitude": "116.514095",
+      "Latitude": "39.86631"
+    },
+    {
+      "parkingid": "f901ad86-fdae-4ef0-9a52-9f392685c9e1",
+      "ParkingName": "麦当劳潞苑南大街地面停车场（请停车入位）TZ",
+      "ParkingAddress": "北京市通州区永顺镇潞苑南大街166号",
+      "Longitude": "116.693245",
+      "Latitude": "39.931646"
+    },
+    {
+      "parkingid": "f913a12dbef34a6680142ceffa188be3",
+      "ParkingName": "如家酒店大红门店停车场NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区西罗园街道鑫福里小区",
+      "Longitude": "116.392292",
+      "Latitude": "39.845786"
+    },
+    {
+      "parkingid": "f97df5f3f3d04191a0a62b9fd03c5f85",
+      "ParkingName": "富东嘉园北侧道路两侧停车位（规范停车）DB",
+      "ParkingAddress": "北京市朝阳区平房镇驹子房路泓鑫家园",
+      "Longitude": "116.550024",
+      "Latitude": "39.946723"
+    },
+    {
+      "parkingid": "f9ed9446-5fb4-413c-880e-96697b143191",
+      "ParkingName": "宋庄美术馆地面停车场（请规范停车）TZ",
+      "ParkingAddress": "北京市通州区宋庄镇宋庄美术馆(暂停营业)",
+      "Longitude": "116.713387",
+      "Latitude": "39.964189"
+    },
+    {
+      "parkingid": "fa26ed45977e47408d24b303e8d15767",
+      "ParkingName": "富东嘉园东侧停车位（规范停车）DB",
+      "ParkingAddress": "北京市朝阳区东坝镇朝阳新城小区路富东嘉园(朝阳新城小区路)",
+      "Longitude": "116.552524",
+      "Latitude": "39.946534"
+    },
+    {
+      "parkingid": "fa2c6bc3-2423-4be1-a2d5-3fc6e31c72ba",
+      "ParkingName": "水岸南街西口公交站路侧TTY",
+      "ParkingAddress": "北京市朝阳区来广营镇水岸南街12号华贸城西区",
+      "Longitude": "116.427647",
+      "Latitude": "40.051173"
+    },
+    {
+      "parkingid": "fa654410-16ed-4d38-bc15-19b0636aebdf",
+      "ParkingName": "家和家美家具城地面停车场SJ",
+      "ParkingAddress": "北京市朝阳区十八里店镇家和家美家具城(大羊坊路)",
+      "Longitude": "116.462288",
+      "Latitude": "39.863626"
+    },
+    {
+      "parkingid": "faa2480e-6b6f-4e37-9263-9f084fd24f90",
+      "ParkingName": "复兴路33号地面停车场XZ",
+      "ParkingAddress": "北京市海淀区羊坊店街道复兴路23-70号楼翠微广场",
+      "Longitude": "116.30494",
+      "Latitude": "39.908731"
+    },
+    {
+      "parkingid": "fad31716-ffc4-4137-89e1-ed21d50c63e5",
+      "ParkingName": "链家地产门前停车场（立水桥东一路与太平庄中街交汇处）TTY",
+      "ParkingAddress": "北京市昌平区天通苑北街道天通中苑(西区)天通中苑南区",
+      "Longitude": "116.421638",
+      "Latitude": "40.068096"
+    },
+    {
+      "parkingid": "fc6e7e4a-6f22-471a-838e-efaa14445b09",
+      "ParkingName": "朝阳区京旺家园西街路侧停车位（请停车入位）DB",
+      "ParkingAddress": "北京市朝阳区崔各庄镇京旺家园社区卫生服务站京旺家园小区2区",
+      "Longitude": "116.525772",
+      "Latitude": "40.008887"
+    },
+    {
+      "parkingid": "fe9ca2499491454fabc8ab079362e8d9",
+      "ParkingName": "建欣苑一里南侧停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道建欣路",
+      "Longitude": "116.398142",
+      "Latitude": "39.842139"
+    },
+    {
+      "parkingid": "feaeb6878d7e4b0ea22c680c94ee13e5",
+      "ParkingName": "建欣苑三里西侧底商停车位NZ（规范停车）",
+      "ParkingAddress": "北京市丰台区大红门街道建欣苑三里(南区)建欣苑四里南区",
+      "Longitude": "116.397326",
+      "Latitude": "39.838303"
+    },
+    {
+      "parkingid": "X000000117",
+      "ParkingName": "物美地面停车场f",
+      "ParkingAddress": "北京市海淀区北三环联想桥物美超市停车场",
+      "Longitude": "116.334371",
+      "Latitude": "39.968846"
+    },
+    {
+      "parkingid": "X000000168",
+      "ParkingName": "卷石天地大厦内东北侧车位（请规范停车）f",
+      "ParkingAddress": "北京市朝阳区望京街道阜通西大街卷石天地大厦",
+      "Longitude": "116.45829",
+      "Latitude": "39.98461"
+    },
+    {
+      "parkingid": "X000000256",
+      "ParkingName": "博泰国际商业广场地面停车场f",
+      "ParkingAddress": "北京市朝阳区南湖东园博泰国际商业广场",
+      "Longitude": "116.467152",
+      "Latitude": "40.001986"
+    },
+    {
+      "parkingid": "X000000327",
+      "ParkingName": "方庄南路18号院地面停车场f",
+      "ParkingAddress": "北京市丰台区铁匠营街道方庄南路18号院",
+      "Longitude": "116.44257",
+      "Latitude": "39.85096"
+    },
+    {
+      "parkingid": "X000000746",
+      "ParkingName": "718创意园地面停车场f",
+      "ParkingAddress": "北京市朝阳区718创意园",
+      "Longitude": "116.520064",
+      "Latitude": "39.914453"
+    },
+    {
+      "parkingid": "X000000801",
+      "ParkingName": "朝青汇地面停车场HD",
+      "ParkingAddress": "北京市朝阳区高碑店镇朝阳路辅路朝青汇",
+      "Longitude": "116.526529",
+      "Latitude": "39.916861"
+    },
+    {
+      "parkingid": "X000000844",
+      "ParkingName": "安贞西里一区北侧地面停车场f AZ",
+      "ParkingAddress": "北京市朝阳区北土城东路100号",
+      "Longitude": "116.3994",
+      "Latitude": "39.975187"
+    },
+    {
+      "parkingid": "X000001013",
+      "ParkingName": "望京国际商业中心地面停车场f",
+      "ParkingAddress": "北京市朝阳区望京街9号望京新城B区",
+      "Longitude": "116.482743",
+      "Latitude": "39.989812"
+    },
+    {
+      "parkingid": "X000001014",
+      "ParkingName": "北京798艺术区A区-1号停车场f",
+      "ParkingAddress": "酒仙桥路2号",
+      "Longitude": "116.48991",
+      "Latitude": "39.98683"
+    },
+    {
+      "parkingid": "X000001049",
+      "ParkingName": "学院国际大厦地上停车场f",
+      "ParkingAddress": "海淀区知春路1号",
+      "Longitude": "116.352862",
+      "Latitude": "39.976854"
+    },
+    {
+      "parkingid": "X000002197",
+      "ParkingName": "酒仙桥三街坊地面停车场f",
+      "ParkingAddress": "北京市朝阳区酒仙桥街道酒仙桥南路酒仙桥三街坊",
+      "Longitude": "116.500941",
+      "Latitude": "39.963519"
+    }
+  ]
+}

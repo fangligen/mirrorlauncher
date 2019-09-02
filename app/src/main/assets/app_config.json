@@ -1,0 +1,24 @@
+{
+  "apps":[
+    {
+      "appName":"高德地图",
+      "packageName":"com.autonavi.amapautolite"
+    },
+    {
+      "appName":"设置",
+      "packageName":"com.android.settings"
+    },
+    {
+      "appName":"GPS Test",
+      "packageName":"com.chartcross.gpstest"
+    },
+    {
+      "appName":"Msetting",
+      "packageName":"com.hikvision.ae.msetting"
+    },
+    {
+      "appName":"RE文件管理器",
+      "packageName":"com.speedsoftware.rootexplorer"
+    }
+  ]
+}

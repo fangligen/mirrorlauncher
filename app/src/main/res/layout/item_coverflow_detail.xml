@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cardView"
+    android:layout_width="@dimen/cover_width_detail"
+    android:layout_height="@dimen/cover_height_detail"
+    android:clipChildren="false"
+    android:clickable="true"
+    app:cardCornerRadius="2dp"
+    app:cardBackgroundColor="@android:color/transparent">
+
+  <RelativeLayout
+      android:layout_width="@dimen/cover_width_detail"
+      android:layout_height="@dimen/cover_width_detail"
+      android:background="@drawable/tutorial_card_bg">
+
+    <ImageView
+        android:layout_margin="@dimen/dp_10"
+        android:id="@+id/image_detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/label_detail"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerInside"/>
+
+    <TextView
+        android:id="@+id/label_detail"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_46"
+        android:textColor="@color/text_gray"
+        android:gravity="center"
+        android:textSize="@dimen/sp_16"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+  </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

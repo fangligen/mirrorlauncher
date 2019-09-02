@@ -1,0 +1,1 @@
+include ':app', ':voicelibrary', ':personcatch', ':locationservice', ':gofunserial'

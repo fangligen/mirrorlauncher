@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.iwgang:simplifyspan-2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/simplifyspan-2.1.aar/06c0f3f5727682549e3087bbd6d02fb8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/simplifyspan-2.1.aar/06c0f3f5727682549e3087bbd6d02fb8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.iwgang/simplifyspan/2.1/960ba1838bea001c5fb5682c9466987a9aed702e/simplifyspan-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

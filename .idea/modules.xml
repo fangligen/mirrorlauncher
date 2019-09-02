@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoFun_Launcher.iml" filepath="$PROJECT_DIR$/GoFun_Launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gofunserial/gofunserial.iml" filepath="$PROJECT_DIR$/gofunserial/gofunserial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationservice/locationservice.iml" filepath="$PROJECT_DIR$/locationservice/locationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personcatch/personcatch.iml" filepath="$PROJECT_DIR$/personcatch/personcatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voicelibrary/voicelibrary.iml" filepath="$PROJECT_DIR$/voicelibrary/voicelibrary.iml" />
+    </modules>
+  </component>
+</project>
